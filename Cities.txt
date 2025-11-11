@@ -1,0 +1,707 @@
+Aba
+Aberdeen
+Abidjan
+Abu Dhabi
+Abuja
+Acapulco
+Accra
+Adana
+Addis Ababa
+Adelaide
+Āgra
+Aguascalientes
+Ahmedabad
+Ahvāz
+Akita
+Al-Baṣrah
+Albuquerque (New Mexico)
+Alexandria
+Algiers
+Alīgarh
+Allahābād/Prayag
+Allentown (Pennsylvania)
+Al-Madīnah
+Almaty
+Al-Mawṣil
+Amman
+Amritsar
+Amsterdam
+Anchorage (Alaska)
+Angeles
+Ankara
+Anshan
+Antalya
+Antananarivo
+Antwerp
+Arbīl / Erbil
+Arhus
+Asansol
+Ashkhabad
+Asmara
+Astana
+Asuncion
+Athens
+Atlanta (Georgia)
+Auckland
+Aurangābād
+Austin (Texas)
+Baghdad
+Baku
+Baltimore (Maryland)
+Bamako
+Bandar Lampung
+Bandar Seri Begawan
+Bandung
+Bangalore
+Bangkok
+Bangui
+Baoding
+Baoji
+Baotou
+Barcelona
+Bareilly
+Barquisimeto
+Barranquilla
+Basel
+Batam
+Battle Creek (Michigan)
+Beijing
+Beirut
+Belem
+Belfast
+Belgrade
+Belo Horizonte
+Bengbu
+Benin City
+Bentonville (Arkansas)
+Benxi
+Bergen
+Berlin
+Bern
+Bhilai
+Bhopāl
+Bhubaneswar
+Bilbao
+Birmingham (Alabama)
+Birmingham (UK)
+Bishkek
+Bissau
+Blantyre
+Bogota
+Bologna
+Bonn
+Bordeaux
+Boston (Massachusetts)
+Brasilia
+Bratislava
+Brazzaville
+Bremen
+Brisbane
+Bristol
+Brussels
+Bucaramanga
+Bucharest
+Budapest
+Buenos Aires
+Buffalo (New York)
+Bulawayo
+Bursa
+Cairo
+Calcutta
+Calgary
+Cali
+Campinas
+Canberra
+Cangnan
+Cape Town
+Caracas
+Cardiff
+Cartagena
+Casablanca
+Cebu
+Chandigarh
+Changchun
+Changsha
+Changshu
+Changwon
+Changzhou
+Charleston (South Carolina)
+Charlotte (North Carolina)
+Chattanooga (Tennessee)
+Chelyabinsk
+Chengdu
+Chennai/Madras
+Chiba
+Chicago (Illinois)
+Chifeng
+Chihuahua
+Chisinau
+Chittagong
+Chonburi
+Chongqing
+Christchurch
+Cincinnati (Ohio)
+Ciudad Juarez
+Cixi
+Clermont-Ferrand
+Cleveland (Ohio)
+Cochabamba
+Cochin/Kochi
+Coimbatore/Kovai
+Cologne
+Colombo
+Columbus (Ohio)
+Conakry
+Copenhagen
+Cordoba
+Cotonou
+Cuernavaca
+Curitiba
+Daegu
+Daejeon
+Dakar
+Dalian
+Dallas (Texas)
+Damascus
+Dammam
+Danbury (Connecticut)
+Daqing
+Dar Es Salaam
+Datong
+Davao
+Dehradun
+Denpasar
+Denver (Colorado)
+Des Moines (Iowa)
+Detroit (Michigan)
+Dhaka/Jahangir Nagar
+Dhanbād
+Dili
+Djibouti
+Dnipropėtrovs'k
+Doha
+Donetsk
+Dortmund
+Douala
+Dresden
+Dubai
+Dublin
+Duisburg
+Durban
+Dushanbe
+Düsseldorf
+Edinburgh
+Edmonton
+El Paso (Texas)
+Essen
+Faisalabad
+Fès
+Florence
+Fortaleza
+Frankfurt
+Freetown
+Fuji
+Fukuoka
+Fuzhou
+Gaborone
+Gaza
+Gaziantep
+Geneva
+Genoa
+George Town (Cayman)
+Georgetown (Guy.)
+Glasgow
+Goiania
+Gothenburg
+Graz
+Greensboro (North Carolina)
+Grenoble
+Guadalajara
+Guangzhou
+Guatemala City
+Guayaquil
+Guilin
+Guiyang
+Gujranwala
+Guwāhāti
+Gwalior
+Gwangju
+Haifa
+Haikou
+Ḥalab
+Halifax
+Hamamatsu
+Hamburg
+Hamilton
+Handan
+Hangzhou
+Hannover
+Hanoi
+Harare
+Harbin
+Harrisburg (Pennsylvania)
+Hartford (Connecticut)
+Havana
+Hefei
+Heidelberg
+Helsinki
+Hengyang
+Hiroshima
+Ho Chi Minh City
+Hobart
+Hohhot
+Hong Kong
+Honolulu (Hawaii)
+Houston (Texas)
+Hsinchu City
+Huai'an
+Huaibei
+Huainan
+Hubli-Dhārwār
+Huizhou
+Hyderabad (India)
+Hyderabad (Pakistan)
+Ibadan
+Incheon
+Indianapolis (Indiana)
+Indore
+Isfahan
+Islamabad
+Istanbul
+Izmir
+Jabalpur
+Jacksonville (Florida)
+Jaipur
+Jakarta
+Jalandhar
+Jamshedpur
+Jeddah
+Jerusalem
+Jiangyin
+Jiaozuo
+Jilin
+Jinan
+Jinzhou
+João Pessoa
+Jodhpur
+Johannesburg
+Johor Bahru
+Kabul
+Kaduna
+Kaifeng
+Kampala
+Kano
+Kānpur
+Kansas City (Missouri)
+Kaohsiung
+Karachi
+Karlsruhe
+Kathmandu
+Katowice
+Kawasaki
+Kayseri
+Kazan
+Kharkov
+Khartoum
+Khulna
+Kiev
+Kigali
+Kingston (Canada)
+Kingston (Jamaica)
+Kinshasa
+Kirkūk
+Kitakyushu
+Kobe
+Konya
+Kotā
+Krakow
+Krasnoyarsk
+Kuala Lumpur
+Kumamoto
+Kumasi
+Kunming
+Kuwait City
+Kyoto
+La Paz
+Labuan
+Lagos
+Lahore
+Lanzhou
+Las Vegas (Nevada)
+Lausanne
+Leeds
+Leicester
+Leipzig
+Leon
+Leverkusen
+Lianyungang
+Libreville
+Liege
+Lille
+Lilongwe
+Lima
+Limassol
+Linyi
+Linz
+Lisbon
+Little Rock (Arkansas)
+Liuzhou
+Liverpool
+Ljubljana
+Lodz
+Lomé
+London
+Los Angeles(California)
+Louisville (Kentucky)
+Luanda
+Lubumbashi
+Lucknow
+Ludhiāna
+Ludwigshafen
+Luoyang
+Lusaka
+Luxembourg
+Lyon
+Ma'anshan
+Macao
+Maceió
+Madison (Wisconsin)
+Madrid
+Madurai
+Maiduguri
+Mainz
+Makassar
+Makkah
+Malabo
+Malacca / Melaka
+Málaga
+Malang
+Malmö
+Managua
+Manama
+Manaus
+Manchester
+Mandalay
+Manila
+Mannheim
+Maoming
+Maputo
+Maracaibo
+Maracay
+Marrakech
+Marseille
+Maseru
+Mashhad
+Mbabane
+Mbuji-Mayi
+McAllen (Texas)
+Medan
+Medellin
+Meerut
+Melbourne
+Melbourne (Florida)
+Memphis (Tennessee)
+Mendoza
+Mérida
+Mexicali
+Mexico City
+Miami (Florida)
+Mianyang
+Milan
+Milwaukee (Wisconsin)
+Minneapolis (Minnesota)
+Minsk
+Mogadishu
+Mombasa
+Monrovia
+Monterrey
+Montevideo
+Montpellier
+Montreal
+Morādābād
+Moscow
+Multan
+Mumbai/Bombay
+Munich/München
+Muscat/Ruwi
+Mysore
+Nagoya
+Nāgpur
+Naha
+Nairobi
+Nanchang
+Nanchong
+Nanjing
+Nanning
+Nantes
+Nantong
+Nanyang
+Naples
+Nāshik
+Nashville (Tennessee)
+Nassau
+Natal
+N'Djamena
+New Delhi
+New Orleans (Louisiana)
+New York (New York)
+Newcastle
+Niamey
+Nice
+Nicosia
+Ningbo
+Nizhny Novgorod
+Norfolk (Virginia)
+Norwich
+Nottingham
+Nouakchott
+Novosibirsk
+Nürnberg
+Odėsa
+Okayama
+Oklahoma City (Oklahoma)
+Omaha (Nebraska)
+Omsk
+Onitsha
+Oran
+Orlando (Florida)
+Osaka
+Oslo
+Ottawa
+Ouagadougou
+Palembang
+Palermo
+Palo Alto (California)
+Panama City
+Paramaribo
+Paris
+Patna
+Pekanbaru
+Penang
+Peoria (Illinois)
+Perm
+Perth
+Peshawar
+Philadelphia (Pennsylvania)
+Phnom Penh
+Phoenix (Arizona)
+Pittsburgh (Pennsylvania)
+Plymouth
+Podgorica
+Pombal
+Port Elizabeth
+Port Harcourt
+Port Louis
+Port Moresby
+Port of Spain
+Port-Au-Prince
+Portland (Oregon)
+Porto
+Porto Alegre
+Porto Novo/Hogbonou
+Poznan
+Prague
+Pretoria
+Providence (Rhode Island)
+Puebla
+Pune
+Pusan/Busan
+Putian
+Pyongyang
+Qingdao
+Qingyuan
+Qinhuangdao
+Qiqihar
+Qom
+Quebec
+Queretaro
+Quetta
+Quito
+Rabat
+Rājkot
+Raleigh (North Carolina)
+Ranchi
+Rawalpindi
+Rayong
+Recife
+Reykjavik
+Richmond (Virginia)
+Riga
+Rio De Janeiro
+Riyadh
+Rizhao
+Rochester (New York)
+Rome
+Rosario
+Rostov-on-Don
+Rotterdam
+Ruhrgebiet
+Sacramento (California)
+Sakai
+Salem
+Salt Lake City (Utah)
+Salvador
+Samara
+San Antonio (Texas)
+San Diego (California)
+San Francisco (California)
+San Jose (California)
+San Jose (CR)
+San Juan
+San Luis Potosí
+San Pedro Sula
+San Salvador
+Sanaa
+Sandviken
+Santa Cruz
+Santiago
+Santo Domingo
+Santos
+São Luís
+Sao Paulo
+Sapporo
+Sarajevo
+Saratov
+Saskatoon
+Seattle (Washington)
+Semarang
+Sendai
+Seoul
+Serang
+Seville
+Shanghai
+Shantou
+Sheffield
+Shenyang
+Shenzhen
+Shijiazhuang
+Shīrāz
+Shizuoka
+Singapore
+Skopje
+Sofia
+Solāpur
+Southampton
+Srīnagar
+St Louis (Missouri)
+St Petersburg
+Stockholm
+Stockton (California)
+Strasbourg
+Stuttgart
+Surabaya
+Surakarta
+Sūrat
+Surgut
+Sūsah
+Suva
+Suzhou
+Swindon
+Sydney
+Tabrīz
+Tai'an
+Tainan
+Taipei
+Taiyuan
+Taizhong/Taichung
+Taizhou
+Takamatsu
+Tallinn
+Tampa (Florida)
+Tangshan
+Taoyuan
+Tashkent
+Tbilisi
+Tegucigalpa
+Tehran
+Tel Aviv
+Teresina
+The Hague/Den Haag
+Thimphu
+Tianjin
+Tijuana
+Tirana
+Tiruchirāppalli
+Tiruppūr
+Tokyo
+Toluca
+Toronto
+Torreón
+Toulouse
+Toyama
+Trieste
+Tripoli
+Trivandrum
+Tucson (Arizona)
+Tulsa (Oklahoma)
+Tunis
+Turin
+Ufa
+Ulan Bator
+Ulsan
+Urumqi
+Utrecht
+Vadodara / Baroda
+Valencia (Sp.)
+Valencia (Ve.)
+Valparaíso / Vina Del Mar
+Vancouver
+Vārānasi
+Venice
+Victoria
+Vienna/Wien
+Vientiane
+Vijayawāda/Bezawada
+Vilnius
+Virginia Beach (Virginia)
+Visākhapatnam
+Vitoria
+Vladivostok
+Volgograd
+Voronež
+Wanzhou
+Warsaw
+Washington (DC)
+Weifang
+Wellington
+Wenzhou
+Windhoek
+Winnipeg
+Winston-Salem (North Carolina)
+Wolfsburg
+Wroclaw
+Wuhan
+Wuhu
+Wuxi
+Xiamen
+Xi'An
+Xiangtan
+Xiangyang
+Xingtai
+Xining
+Xinxiang
+Xuzhou
+Yancheng
+Yangon/Rangoon
+Yangzhou
+Yantai
+Yaonde
+Yekaterinburg
+Yerevan
+Yichang
+Yinchuan
+Yiwu
+Yogyakarta
+Yokohama
+Zagreb
+Zamboanga
+Zhangjiakou
+Zhanjiang
+Zhengzhou
+Zhenjiang
+Zhuhai
+Zhuzhou
+Zibo
+Zunyi
+Zurich
+
