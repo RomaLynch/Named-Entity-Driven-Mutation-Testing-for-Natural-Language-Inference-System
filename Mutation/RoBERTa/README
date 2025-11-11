@@ -1,3 +1,3 @@
 # We need to run First_Round_Inference_RoBERTa.py to extract neutral sentences from three datastes.
-# Then we can run RoBERTaMutation.py.
+# Then we can run RoBERTaMutation.py. We load Cities.txt and ORG.txt for our mutation: Cities.txt is used for LOCATION mutation, and ORG.txt is used for ORGANIZATION mutation.
 # After mutation, we need to run RoBERTaFilter.py.
