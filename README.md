@@ -1,1 +1,1 @@
-# Named-Entity-Driven-Mutation-Testing-for-Natural-Language-Inference-System
+# NE-Driven-Mutation-Testing-for-NLI
