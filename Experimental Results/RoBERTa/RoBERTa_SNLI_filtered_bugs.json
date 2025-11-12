@@ -1,0 +1,5369 @@
+{
+  "PERSON": [
+    {
+      "Original": [
+        "Bruce Springsteen, with one arm outstretched, is singing in the spotlight in a dark concert hall.",
+        "Bruce Springsteen is from Florida."
+      ],
+      "Mutated": [
+        "Alfredo , with one arm outstretched , is singing in the spotlight in a dark concert hall .",
+        "Bruce Springsteen is from Florida."
+      ],
+      "Confidence": [
+        0.008894100785255432,
+        0.9894042015075684,
+        0.0017016716301441193
+      ],
+      "Predicted_label": "entailment",
+      "Predicted_label_confidence": [
+        0.9478493332862854,
+        0.04460979998111725,
+        0.007540931459516287
+      ]
+    },
+    {
+      "Original": [
+        "Bruce Springsteen, with one arm outstretched, is singing in the spotlight in a dark concert hall.",
+        "Bruce Springsteen is from Florida."
+      ],
+      "Mutated": [
+        "Marglerite , with one arm outstretched , is singing in the spotlight in a dark concert hall .",
+        "Loni is from Florida ."
+      ],
+      "Confidence": [
+        0.008894100785255432,
+        0.9894042015075684,
+        0.0017016716301441193
+      ],
+      "Predicted_label": "entailment",
+      "Predicted_label_confidence": [
+        0.9353665709495544,
+        0.05187292397022247,
+        0.012760454788804054
+      ]
+    },
+    {
+      "Original": [
+        "Bruce Springsteen, with one arm outstretched, is singing in the spotlight in a dark concert hall.",
+        "Bruce Springsteen is gay"
+      ],
+      "Mutated": [
+        "Grover , with one arm outstretched , is singing in the spotlight in a dark concert hall .",
+        "Bruce Springsteen is gay"
+      ],
+      "Confidence": [
+        0.11909197270870209,
+        0.8633770942687988,
+        0.017530858516693115
+      ],
+      "Predicted_label": "entailment",
+      "Predicted_label_confidence": [
+        0.6858552694320679,
+        0.27902159094810486,
+        0.035123180598020554
+      ]
+    },
+    {
+      "Original": [
+        "Bruce Springsteen, with one arm outstretched, is singing in the spotlight in a dark concert hall.",
+        "Bruce Springsteen is gay"
+      ],
+      "Mutated": [
+        "Bruce Springsteen, with one arm outstretched, is singing in the spotlight in a dark concert hall.",
+        "Lex is gay"
+      ],
+      "Confidence": [
+        0.11909197270870209,
+        0.8633770942687988,
+        0.017530858516693115
+      ],
+      "Predicted_label": "entailment",
+      "Predicted_label_confidence": [
+        0.5112930536270142,
+        0.4332498013973236,
+        0.05545714497566223
+      ]
+    },
+    {
+      "Original": [
+        "Bruce Springsteen, with one arm outstretched, is singing in the spotlight in a dark concert hall.",
+        "Bruce Springsteen is gay"
+      ],
+      "Mutated": [
+        "Eustace , with one arm outstretched , is singing in the spotlight in a dark concert hall .",
+        "Dionne is gay"
+      ],
+      "Confidence": [
+        0.11909197270870209,
+        0.8633770942687988,
+        0.017530858516693115
+      ],
+      "Predicted_label": "entailment",
+      "Predicted_label_confidence": [
+        0.8174511790275574,
+        0.14552798867225647,
+        0.037020761519670486
+      ]
+    },
+    {
+      "Original": [
+        "First Lady Laura Bush at podium, in front of seated audience, at the White House Conference on Global Literacy.",
+        "Laura Bush gets ready to address a heated issue"
+      ],
+      "Mutated": [
+        "First Lady Laura Bush at podium, in front of seated audience, at the White House Conference on Global Literacy.",
+        "Marguerite gets ready to address a heated issue"
+      ],
+      "Confidence": [
+        0.0018051215447485447,
+        0.9933738708496094,
+        0.0048210471868515015
+      ],
+      "Predicted_label": "entailment",
+      "Predicted_label_confidence": [
+        0.8591030836105347,
+        0.12802784144878387,
+        0.012869082391262054
+      ]
+    },
+    {
+      "Original": [
+        "First Lady Laura Bush at podium, in front of seated audience, at the White House Conference on Global Literacy.",
+        "Laura Bush is giving a talk about the importance of literacy to young people."
+      ],
+      "Mutated": [
+        "First Lady Ann-Mari at podium , in front of seated audience , at the White House Conference on Global Literacy .",
+        "Laura Bush is giving a talk about the importance of literacy to young people."
+      ],
+      "Confidence": [
+        0.000654648698400706,
+        0.996263325214386,
+        0.00308207212947309
+      ],
+      "Predicted_label": "entailment",
+      "Predicted_label_confidence": [
+        0.5905176997184753,
+        0.3871789276599884,
+        0.022303391247987747
+      ]
+    },
+    {
+      "Original": [
+        "A young man, wearing a T-shirt that says Joplin, plays the guitar in front of a large amplifier.",
+        "The man is a Janice Joplin fan."
+      ],
+      "Mutated": [
+        "A young man , wearing a T - shirt that says Tyler , plays the guitar in front of a large amplifier .",
+        "The man is a Tony fan ."
+      ],
+      "Confidence": [
+        0.002017295453697443,
+        0.9479920268058777,
+        0.049990613013505936
+      ],
+      "Predicted_label": "entailment",
+      "Predicted_label_confidence": [
+        0.5948838591575623,
+        0.39452922344207764,
+        0.010586998425424099
+      ]
+    },
+    {
+      "Original": [
+        "Two people play horseshoes.",
+        "Sally was riding her horse."
+      ],
+      "Mutated": [
+        "Two people play horseshoes.",
+        "Penny was riding her horse ."
+      ],
+      "Confidence": [
+        0.24550290405750275,
+        0.748200535774231,
+        0.006296530365943909
+      ],
+      "Predicted_label": "entailment",
+      "Predicted_label_confidence": [
+        0.7859161496162415,
+        0.20858362317085266,
+        0.005500280763953924
+      ]
+    },
+    {
+      "Original": [
+        "A young boy gets his photo taken with Mr. and Mrs. Clause.",
+        "A young boy's mother takes his photo with Mr. and Mrs. Clause."
+      ],
+      "Mutated": [
+        "A young boy gets his photo taken with Mr. and Mrs. Selby .",
+        "A young boy's mother takes his photo with Mr. and Mrs. Clause."
+      ],
+      "Confidence": [
+        0.01142186764627695,
+        0.9798375964164734,
+        0.008740558288991451
+      ],
+      "Predicted_label": "entailment",
+      "Predicted_label_confidence": [
+        0.9442896246910095,
+        0.051551975309848785,
+        0.004158384166657925
+      ]
+    },
+    {
+      "Original": [
+        "A young boy gets his photo taken with Mr. and Mrs. Clause.",
+        "A young boy's mother takes his photo with Mr. and Mrs. Clause."
+      ],
+      "Mutated": [
+        "A young boy gets his photo taken with Mr. and Mrs. Clause.",
+        "A young boy 's mother takes his photo with Mr. and Mrs. Biff ."
+      ],
+      "Confidence": [
+        0.01142186764627695,
+        0.9798375964164734,
+        0.008740558288991451
+      ],
+      "Predicted_label": "entailment",
+      "Predicted_label_confidence": [
+        0.9282991886138916,
+        0.06544531881809235,
+        0.006255516782402992
+      ]
+    },
+    {
+      "Original": [
+        "A young boy gets his photo taken with Mr. and Mrs. Clause.",
+        "A young boy's mother takes his photo with Mr. and Mrs. Clause."
+      ],
+      "Mutated": [
+        "A young boy gets his photo taken with Mr. and Mrs. Abby .",
+        "A young boy 's mother takes his photo with Mr. and Mrs. Clementina ."
+      ],
+      "Confidence": [
+        0.01142186764627695,
+        0.9798375964164734,
+        0.008740558288991451
+      ],
+      "Predicted_label": "entailment",
+      "Predicted_label_confidence": [
+        0.9400047659873962,
+        0.056499727070331573,
+        0.00349549506790936
+      ]
+    },
+    {
+      "Original": [
+        "A boy dressed for summer in a green shirt and kahki shorts extends food to a reindeer in a petting zoo.",
+        "A boy alien dressed for summer in a green shirt and kahki shorts"
+      ],
+      "Mutated": [
+        "A boy dressed for summer in a green shirt and kahki shorts extends food to a reindeer in a petting zoo.",
+        "A boy alien dressed for summer in a green shirt and Tiebold"
+      ],
+      "Confidence": [
+        0.030756110325455666,
+        0.7463028430938721,
+        0.222941055893898
+      ],
+      "Predicted_label": "entailment",
+      "Predicted_label_confidence": [
+        0.5703919529914856,
+        0.38995295763015747,
+        0.03965512663125992
+      ]
+    }
+  ],
+  "GPE": [
+    {
+      "Original": [
+        "A man in an Alaska sweatshirt stands behind a counter.",
+        "The man is from Alaska."
+      ],
+      "Mutated": [
+        "A man in an Uzbekistan sweatshirt stands behind a counter .",
+        "The man is from Alaska."
+      ],
+      "Confidence": [
+        0.0032269370276480913,
+        0.9538722038269043,
+        0.04290078580379486
+      ],
+      "Predicted_label": "entailment",
+      "Predicted_label_confidence": [
+        0.9986446499824524,
+        0.00111361441668123,
+        0.00024176730948965997
+      ]
+    },
+    {
+      "Original": [
+        "A man stands by two face structures on Easter Island.",
+        "A tourist has his picture taken on Easter Island."
+      ],
+      "Mutated": [
+        "A man stands by two face structures on Nigeria .",
+        "A tourist has his picture taken on Easter Island."
+      ],
+      "Confidence": [
+        0.013460814952850342,
+        0.7788279056549072,
+        0.20771129429340363
+      ],
+      "Predicted_label": "entailment",
+      "Predicted_label_confidence": [
+        0.9629867076873779,
+        0.02857213467359543,
+        0.008441131561994553
+      ]
+    },
+    {
+      "Original": [
+        "A man stands by two face structures on Easter Island.",
+        "A tourist has his picture taken on Easter Island."
+      ],
+      "Mutated": [
+        "A man stands by two face structures on Easter Island.",
+        "A tourist has his picture taken on Adamston ."
+      ],
+      "Confidence": [
+        0.013460814952850342,
+        0.7788279056549072,
+        0.20771129429340363
+      ],
+      "Predicted_label": "entailment",
+      "Predicted_label_confidence": [
+        0.9810423851013184,
+        0.014499570243060589,
+        0.0044580139219760895
+      ]
+    },
+    {
+      "Original": [
+        "A man stands by two face structures on Easter Island.",
+        "A tourist has his picture taken on Easter Island."
+      ],
+      "Mutated": [
+        "A man stands by two face structures on Virgin Islands, U.S. .",
+        "A tourist has his picture taken on Tanzania, United Republic of ."
+      ],
+      "Confidence": [
+        0.013460814952850342,
+        0.7788279056549072,
+        0.20771129429340363
+      ],
+      "Predicted_label": "entailment",
+      "Predicted_label_confidence": [
+        0.9812036156654358,
+        0.015019968152046204,
+        0.003776429919525981
+      ]
+    },
+    {
+      "Original": [
+        "San Fransisco 49ers football field with cheerleaders and a packed stadium.",
+        "A popular football team in California has many fans."
+      ],
+      "Mutated": [
+        "San Fransisco 49ers football field with cheerleaders and a packed stadium.",
+        "A popular football team in Czechia has many fans ."
+      ],
+      "Confidence": [
+        0.0009559497120790184,
+        0.698337733745575,
+        0.3007063567638397
+      ],
+      "Predicted_label": "entailment",
+      "Predicted_label_confidence": [
+        0.8962334394454956,
+        0.08518941700458527,
+        0.018577152863144875
+      ]
+    },
+    {
+      "Original": [
+        "A man is painting a city scene on a canvas in the street.",
+        "A man is painting New York City."
+      ],
+      "Mutated": [
+        "A man is painting a city scene on a canvas in the street.",
+        "A man is painting Jillmouth ."
+      ],
+      "Confidence": [
+        0.0007139263907447457,
+        0.9975946545600891,
+        0.0016914325533434749
+      ],
+      "Predicted_label": "entailment",
+      "Predicted_label_confidence": [
+        0.9017715454101562,
+        0.08713649213314056,
+        0.01109199970960617
+      ]
+    },
+    {
+      "Original": [
+        "People standing at street corner in France.",
+        "A group of people wait to cross a Parisian street."
+      ],
+      "Mutated": [
+        "People standing at street corner in Central African Republic .",
+        "A group of people wait to cross a Parisian street."
+      ],
+      "Confidence": [
+        0.00218494632281363,
+        0.9481317400932312,
+        0.04968336969614029
+      ],
+      "Predicted_label": "entailment",
+      "Predicted_label_confidence": [
+        0.9717620015144348,
+        0.02385600656270981,
+        0.004381987731903791
+      ]
+    },
+    {
+      "Original": [
+        "There is a large group of people standing together mostly wearing Canada symbols.",
+        "They are Canadian."
+      ],
+      "Mutated": [
+        "There is a large group of people standing together mostly wearing Lithuania symbols .",
+        "They are Canadian."
+      ],
+      "Confidence": [
+        0.007337858434766531,
+        0.8879461288452148,
+        0.10471605509519577
+      ],
+      "Predicted_label": "entailment",
+      "Predicted_label_confidence": [
+        0.9967086315155029,
+        0.0028578490018844604,
+        0.0004334722470957786
+      ]
+    }
+  ],
+  "ORG": [
+    {
+      "Original": [
+        "A land rover is being driven across a river.",
+        "A Land Rover is splashing water as it crosses a river."
+      ],
+      "Mutated": [
+        "A land rover is being driven across a river.",
+        "A Imperial College London is splashing water as it crosses a river ."
+      ],
+      "Confidence": [
+        0.0029878190252929926,
+        0.9935154914855957,
+        0.003496723948046565
+      ],
+      "Predicted_label": "entailment",
+      "Predicted_label_confidence": [
+        0.9426660537719727,
+        0.0480780303478241,
+        0.009255976416170597
+      ]
+    },
+    {
+      "Original": [
+        "a boy holding onto the wall of an old brick house's raised foundation.",
+        "a boy holding onto the wall of an old brick house's raised foundation as construction occurs"
+      ],
+      "Mutated": [
+        "a boy holding onto the wall of an old brick University of Oxford 's raised foundation .",
+        "a boy holding onto the wall of an old brick Fraunhofer Society 's raised foundation as construction occurs"
+      ],
+      "Confidence": [
+        0.0008986831526271999,
+        0.9943248629570007,
+        0.004776399582624435
+      ],
+      "Predicted_label": "entailment",
+      "Predicted_label_confidence": [
+        0.9802165627479553,
+        0.016690876334905624,
+        0.0030925837345421314
+      ]
+    },
+    {
+      "Original": [
+        "A man in a black ball cap, black jacket and pants sitting in front of a building painted white and blue with the words ING and PEOPLE written on it.",
+        "The man is sitting in front of a school."
+      ],
+      "Mutated": [
+        "A man in a black ball cap , black jacket and pants sitting in front of a building painted white and blue with the words University of Chicago and PEOPLE written on it .",
+        "The man is sitting in front of a school."
+      ],
+      "Confidence": [
+        0.02003149501979351,
+        0.9650670289993286,
+        0.014901475980877876
+      ],
+      "Predicted_label": "contradiction",
+      "Predicted_label_confidence": [
+        0.00323117314837873,
+        0.12540432810783386,
+        0.8713645339012146
+      ]
+    },
+    {
+      "Original": [
+        "A Skier ski-jumping while two other skiers watch his act.",
+        "A skier down the road skiying"
+      ],
+      "Mutated": [
+        "A North Atlantic Treaty Organization ski - jumping while two other skiers watch his act .",
+        "A skier down the road skiying"
+      ],
+      "Confidence": [
+        0.30848729610443115,
+        0.6615386605262756,
+        0.029974007979035378
+      ],
+      "Predicted_label": "entailment",
+      "Predicted_label_confidence": [
+        0.934428870677948,
+        0.05591696500778198,
+        0.009654128924012184
+      ]
+    },
+    {
+      "Original": [
+        "A man is walking past a large sign that says E.S.E. Electronics.",
+        "The man works at E.S.E Electronics."
+      ],
+      "Mutated": [
+        "A man is walking past a large sign that says Tsinghua University .",
+        "The man works at International Environmental Fund ."
+      ],
+      "Confidence": [
+        0.007348727900534868,
+        0.9913619160652161,
+        0.0012893187813460827
+      ],
+      "Predicted_label": "entailment",
+      "Predicted_label_confidence": [
+        0.8439581394195557,
+        0.15317989885807037,
+        0.002861966146156192
+      ]
+    },
+    {
+      "Original": [
+        "Trays of freshly-baked pretzels are being loaded onto a delivery truck.",
+        "Pretzels are made from twisted dough."
+      ],
+      "Mutated": [
+        "Trays of freshly-baked pretzels are being loaded onto a delivery truck.",
+        "Global Health Initiative are made from twisted dough ."
+      ],
+      "Confidence": [
+        0.21799558401107788,
+        0.7534151673316956,
+        0.028589284047484398
+      ],
+      "Predicted_label": "entailment",
+      "Predicted_label_confidence": [
+        0.6484988331794739,
+        0.33544421195983887,
+        0.01605689898133278
+      ]
+    },
+    {
+      "Original": [
+        "Man sitting on bench with a suitcase in front of PADDINGTON sign.",
+        "A man taking a break"
+      ],
+      "Mutated": [
+        "Man sitting on bench with a suitcase in front of University of Chicago sign .",
+        "A man taking a break"
+      ],
+      "Confidence": [
+        0.0021652800496667624,
+        0.5111382007598877,
+        0.4866965115070343
+      ],
+      "Predicted_label": "contradiction",
+      "Predicted_label_confidence": [
+        0.0016493379371240735,
+        0.27523884177207947,
+        0.7231118679046631
+      ]
+    },
+    {
+      "Original": [
+        "A man looks at an iPad on a subway, while a beautiful women reads a book.",
+        "The man with the ipad is older than the woman reading the book."
+      ],
+      "Mutated": [
+        "A man looks at an Adidas AG on a subway , while a beautiful women reads a book .",
+        "The man with the Toyota Motor Corporation is older than the woman reading the book ."
+      ],
+      "Confidence": [
+        0.0013490768615156412,
+        0.9973568916320801,
+        0.0012940458254888654
+      ],
+      "Predicted_label": "entailment",
+      "Predicted_label_confidence": [
+        0.8466288447380066,
+        0.14897553622722626,
+        0.004395675845444202
+      ]
+    },
+    {
+      "Original": [
+        "Two hockey players on opposing teams, one in a red and white jersey and one in a blue and black jersey, are standing on the rink.",
+        "Two opponents are getting ready to face off in a Hockey game."
+      ],
+      "Mutated": [
+        "Two hockey players on opposing teams , one in a red and University of Oxford and one in a blue and black jersey , are standing on the rink .",
+        "Two opponents are getting ready to face off in a Environmental Protection Agency (EPA) game ."
+      ],
+      "Confidence": [
+        0.0017851614393293858,
+        0.7090545892715454,
+        0.28916019201278687
+      ],
+      "Predicted_label": "entailment",
+      "Predicted_label_confidence": [
+        0.9002713561058044,
+        0.07142562419176102,
+        0.028303073719143867
+      ]
+    },
+    {
+      "Original": [
+        "A BMX rider is in midair while on a dirt trail.",
+        "The BMX rider is getting dirt on his clothes."
+      ],
+      "Mutated": [
+        "A University of Cambridge rider is in midair while on a dirt trail .",
+        "The Doctors Without Borders rider is getting dirt on his clothes ."
+      ],
+      "Confidence": [
+        0.0008120313286781311,
+        0.9857999086380005,
+        0.013388074934482574
+      ],
+      "Predicted_label": "entailment",
+      "Predicted_label_confidence": [
+        0.9769342541694641,
+        0.014864006079733372,
+        0.008201731368899345
+      ]
+    },
+    {
+      "Original": [
+        "Motorcycle rider going over a bump.",
+        "Motorcycle rider going over a big bump."
+      ],
+      "Mutated": [
+        "International Monetary Fund rider going over a bump .",
+        "Motorcycle rider going over a big bump."
+      ],
+      "Confidence": [
+        0.0027948140632361174,
+        0.916800856590271,
+        0.08040434122085571
+      ],
+      "Predicted_label": "entailment",
+      "Predicted_label_confidence": [
+        0.9528698921203613,
+        0.040858447551727295,
+        0.00627165287733078
+      ]
+    },
+    {
+      "Original": [
+        "A man with his finger in his mouth is standing outside of an RV.",
+        "The man owns the RV."
+      ],
+      "Mutated": [
+        "A man with his finger in his mouth is standing outside of an University of Pennsylvania .",
+        "The man owns the RV."
+      ],
+      "Confidence": [
+        0.02287660539150238,
+        0.9745616912841797,
+        0.0025616856291890144
+      ],
+      "Predicted_label": "entailment",
+      "Predicted_label_confidence": [
+        0.8414885997772217,
+        0.156463623046875,
+        0.0020478302612900734
+      ]
+    },
+    {
+      "Original": [
+        "A man with his finger in his mouth is standing outside of an RV.",
+        "The man owns the RV."
+      ],
+      "Mutated": [
+        "A man with his finger in his mouth is standing outside of an Central Intelligence Agency (CIA) .",
+        "The man owns the HM Revenue & Customs ."
+      ],
+      "Confidence": [
+        0.02287660539150238,
+        0.9745616912841797,
+        0.0025616856291890144
+      ],
+      "Predicted_label": "entailment",
+      "Predicted_label_confidence": [
+        0.9967910647392273,
+        0.0024745038244873285,
+        0.0007344101904891431
+      ]
+    },
+    {
+      "Original": [
+        "Guy in uniform standing on the side of a boat moving through the water.",
+        "A man in the Navy stands on a boat in the cool air."
+      ],
+      "Mutated": [
+        "Guy in uniform standing on the side of a boat moving through the water.",
+        "A man in the Max Planck Society stands on a boat in the cool air ."
+      ],
+      "Confidence": [
+        0.0017115033697336912,
+        0.9912070631980896,
+        0.007081456016749144
+      ],
+      "Predicted_label": "entailment",
+      "Predicted_label_confidence": [
+        0.5729398131370544,
+        0.3968919515609741,
+        0.03016827628016472
+      ]
+    },
+    {
+      "Original": [
+        "A man in neon green Seahawks sweatshirt leans on a railing.",
+        "A man is scalping tickets to a Seahawks game."
+      ],
+      "Mutated": [
+        "A man in neon green International Environmental Fund sweatshirt leans on a railing .",
+        "A man is scalping tickets to a ETH Zurich game ."
+      ],
+      "Confidence": [
+        0.020701222121715546,
+        0.9762671589851379,
+        0.003031602595001459
+      ],
+      "Predicted_label": "entailment",
+      "Predicted_label_confidence": [
+        0.5132213830947876,
+        0.4812082052230835,
+        0.0055703939869999886
+      ]
+    },
+    {
+      "Original": [
+        "A gray-haired man rides a bike in front of a bus advertising Ironman.",
+        "An older man rides his bike and is almost hit by a bus because he is looking at the Ironman poster."
+      ],
+      "Mutated": [
+        "A gray-haired man rides a bike in front of a bus advertising Ironman.",
+        "An older man rides his bike and is almost hit by a bus because he is looking at the Department of Defense poster ."
+      ],
+      "Confidence": [
+        0.0016663741553202271,
+        0.9801019430160522,
+        0.018231771886348724
+      ],
+      "Predicted_label": "entailment",
+      "Predicted_label_confidence": [
+        0.6339257955551147,
+        0.3401401937007904,
+        0.02593405731022358
+      ]
+    },
+    {
+      "Original": [
+        "A gray-haired man rides a bike in front of a bus advertising Ironman.",
+        "An older man rides his bike and is almost hit by a bus because he is looking at the Ironman poster."
+      ],
+      "Mutated": [
+        "A gray - haired man rides a bike in front of a bus advertising World Wildlife Fund .",
+        "An older man rides his bike and is almost hit by a bus because he is looking at the International Olympic Committee poster ."
+      ],
+      "Confidence": [
+        0.0016663741553202271,
+        0.9801019430160522,
+        0.018231771886348724
+      ],
+      "Predicted_label": "entailment",
+      "Predicted_label_confidence": [
+        0.9255227446556091,
+        0.0681118294596672,
+        0.00636543333530426
+      ]
+    },
+    {
+      "Original": [
+        "A woman is walking with a full shopping cart away from a Trader Joe's.",
+        "A woman is leaving Trader Joe's with a full shopping cart of things she just stole."
+      ],
+      "Mutated": [
+        "A woman is walking with a full shopping cart away from a Trader Joe's.",
+        "A woman is leaving Max Planck Society with a full shopping cart of things she just stole ."
+      ],
+      "Confidence": [
+        0.0009712332976050675,
+        0.9977129697799683,
+        0.0013157437788322568
+      ],
+      "Predicted_label": "entailment",
+      "Predicted_label_confidence": [
+        0.9814075827598572,
+        0.01707013137638569,
+        0.0015223338268697262
+      ]
+    },
+    {
+      "Original": [
+        "A man and a Woman cutting dough.",
+        "A husband and wife making pizza."
+      ],
+      "Mutated": [
+        "A man and a California Institute of Technology (Caltech) cutting dough .",
+        "A husband and wife making pizza."
+      ],
+      "Confidence": [
+        0.06071827560663223,
+        0.5643228888511658,
+        0.3749587833881378
+      ],
+      "Predicted_label": "entailment",
+      "Predicted_label_confidence": [
+        0.9791435599327087,
+        0.01520965714007616,
+        0.005646693054586649
+      ]
+    },
+    {
+      "Original": [
+        "A man with a latex glove and black t-shit is standing in front of a Chevy van.",
+        "a man in his van because he caught his victim"
+      ],
+      "Mutated": [
+        "A man with a latex glove and black t - shit is standing in front of a Global Health Initiative van .",
+        "a man in his van because he caught his victim"
+      ],
+      "Confidence": [
+        0.4794144630432129,
+        0.5125788450241089,
+        0.008006745018064976
+      ],
+      "Predicted_label": "entailment",
+      "Predicted_label_confidence": [
+        0.8319961428642273,
+        0.16101489961147308,
+        0.006988919340074062
+      ]
+    },
+    {
+      "Original": [
+        "Cars and people are outside of \"Hotel Carmel.\"",
+        "People get out of cars for the party at Hotel Carmel."
+      ],
+      "Mutated": [
+        "Cars and people are outside of \" Harvard University . \"",
+        "People get out of cars for the party at Hotel Carmel."
+      ],
+      "Confidence": [
+        0.0014220942975953221,
+        0.9975399971008301,
+        0.0010379513259977102
+      ],
+      "Predicted_label": "entailment",
+      "Predicted_label_confidence": [
+        0.7909513711929321,
+        0.20595921576023102,
+        0.0030893797520548105
+      ]
+    },
+    {
+      "Original": [
+        "Cars and people are outside of \"Hotel Carmel.\"",
+        "People get out of cars for the party at Hotel Carmel."
+      ],
+      "Mutated": [
+        "Cars and people are outside of \"Hotel Carmel.\"",
+        "People get out of cars for the party at Fraunhofer Society ."
+      ],
+      "Confidence": [
+        0.0014220942975953221,
+        0.9975399971008301,
+        0.0010379513259977102
+      ],
+      "Predicted_label": "entailment",
+      "Predicted_label_confidence": [
+        0.6967105269432068,
+        0.29734066128730774,
+        0.005948793143033981
+      ]
+    },
+    {
+      "Original": [
+        "Cars and people are outside of \"Hotel Carmel.\"",
+        "People get out of cars for the party at Hotel Carmel."
+      ],
+      "Mutated": [
+        "Cars and people are outside of \" Environmental Protection Agency (EPA) . \"",
+        "People get out of cars for the party at Yale University ."
+      ],
+      "Confidence": [
+        0.0014220942975953221,
+        0.9975399971008301,
+        0.0010379513259977102
+      ],
+      "Predicted_label": "entailment",
+      "Predicted_label_confidence": [
+        0.7252646088600159,
+        0.27061784267425537,
+        0.004117507487535477
+      ]
+    },
+    {
+      "Original": [
+        "A crowd of people stand in street in front of a series of white tents.",
+        "A crowd of people pick through produce at Farmer's Market."
+      ],
+      "Mutated": [
+        "A crowd of people stand in street in front of a series of white tents.",
+        "A crowd of people pick through produce at World Education Association ."
+      ],
+      "Confidence": [
+        0.031112367287278175,
+        0.9645608067512512,
+        0.004326781257987022
+      ],
+      "Predicted_label": "entailment",
+      "Predicted_label_confidence": [
+        0.8314661383628845,
+        0.16353759169578552,
+        0.004996300209313631
+      ]
+    },
+    {
+      "Original": [
+        "Many women trying out and looking at laptops in a Walmart.",
+        "Women are shopping for Dell Computers."
+      ],
+      "Mutated": [
+        "Many women trying out and looking at laptops in a Amazon.com Inc. .",
+        "Women are shopping for World Trade Organization ."
+      ],
+      "Confidence": [
+        0.0016652251360937953,
+        0.9972731471061707,
+        0.0010616884101182222
+      ],
+      "Predicted_label": "entailment",
+      "Predicted_label_confidence": [
+        0.9556789994239807,
+        0.03389176353812218,
+        0.010429248213768005
+      ]
+    },
+    {
+      "Original": [
+        "The man in the white shirt holds up a playing card.",
+        "The man is holding up the Ace of Spades."
+      ],
+      "Mutated": [
+        "The man in the white shirt holds up a playing card.",
+        "The man is holding up Yale University ."
+      ],
+      "Confidence": [
+        0.0016666640294715762,
+        0.9974592328071594,
+        0.0008740922785364091
+      ],
+      "Predicted_label": "entailment",
+      "Predicted_label_confidence": [
+        0.9599121809005737,
+        0.03199947997927666,
+        0.008088359609246254
+      ]
+    },
+    {
+      "Original": [
+        "A male baseball player for the baseball team The Indians prepares to catch a ball.",
+        "The male baseball player belongs to the Cleveland Indians."
+      ],
+      "Mutated": [
+        "A male baseball player for the baseball team The Indians prepares to catch a ball.",
+        "The male baseball player belongs to Tsinghua University ."
+      ],
+      "Confidence": [
+        0.025017332285642624,
+        0.911940336227417,
+        0.06304234266281128
+      ],
+      "Predicted_label": "entailment",
+      "Predicted_label_confidence": [
+        0.6465229392051697,
+        0.35064008831977844,
+        0.002837026957422495
+      ]
+    },
+    {
+      "Original": [
+        "Three people are sitting at a small table near a screen with the words, \"DEMOS, The Business of Care.\"",
+        "Three humans are practicing their square-dancing moves."
+      ],
+      "Mutated": [
+        "Three people are sitting at a small table near a screen with the words , \" DEMOS , World Wildlife Fund . \"",
+        "Three humans are practicing their square-dancing moves."
+      ],
+      "Confidence": [
+        0.45569878816604614,
+        0.5371267199516296,
+        0.007174526806920767
+      ],
+      "Predicted_label": "entailment",
+      "Predicted_label_confidence": [
+        0.6535491943359375,
+        0.3396684527397156,
+        0.006782394368201494
+      ]
+    },
+    {
+      "Original": [
+        "A man wearing a green apron, working at a street side vendor called NY Dosas, miles at the camera.",
+        "The man selling halal meat in his food cart is smiling at the camera."
+      ],
+      "Mutated": [
+        "A man wearing a green apron , working at a street side vendor called World Wildlife Fund , miles at the camera .",
+        "The man selling halal meat in his food cart is smiling at the camera."
+      ],
+      "Confidence": [
+        0.004533197730779648,
+        0.9865211248397827,
+        0.00894570630043745
+      ],
+      "Predicted_label": "entailment",
+      "Predicted_label_confidence": [
+        0.8465592265129089,
+        0.14617939293384552,
+        0.007261318154633045
+      ]
+    }
+  ],
+  "PERSON2": [
+    {
+      "Original": [
+        "Bruce Springsteen, with one arm outstretched, is singing in the spotlight in a dark concert hall.",
+        "Bruce Springsteen is from Florida."
+      ],
+      "Mutated": [
+        "Bruce Springsteen, with one arm outstretched, is singing in the spotlight in a dark concert hall.",
+        "Michele is from Florida ."
+      ],
+      "Confidence": [
+        0.008894100785255432,
+        0.9894042015075684,
+        0.0017016716301441193
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.3099651336669922,
+        0.5925289392471313,
+        0.09750590473413467
+      ]
+    },
+    {
+      "Original": [
+        "A person in a red shirt is mowing the grass with a green riding mower.",
+        "A person in red is moving grass on a John Deer motor."
+      ],
+      "Mutated": [
+        "A person in a red shirt is mowing the grass with a green riding mower.",
+        "A person in red is moving grass on a Beilul motor ."
+      ],
+      "Confidence": [
+        0.04482710734009743,
+        0.9307694435119629,
+        0.024403419345617294
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.031436849385499954,
+        0.9426938891410828,
+        0.02586924098432064
+      ]
+    },
+    {
+      "Original": [
+        "A woman in tennis clothes running to hit a ball with her tennis racket.",
+        "Serina Williams plays tennis."
+      ],
+      "Mutated": [
+        "A woman in tennis clothes running to hit a ball with her tennis racket.",
+        "Krystalle plays tennis ."
+      ],
+      "Confidence": [
+        0.029986605048179626,
+        0.9625290036201477,
+        0.007484382018446922
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.019830405712127686,
+        0.9391316175460815,
+        0.04103799909353256
+      ]
+    },
+    {
+      "Original": [
+        "A man is painting a picture outside behind a crowd.",
+        "A man is recreating the Mona Lisa outside in front of a crowd."
+      ],
+      "Mutated": [
+        "A man is painting a picture outside behind a crowd.",
+        "A man is recreating Jazmin outside in front of a crowd ."
+      ],
+      "Confidence": [
+        0.09668567031621933,
+        0.9001994132995605,
+        0.0031149659771472216
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.14027585089206696,
+        0.8531071543693542,
+        0.006616953760385513
+      ]
+    },
+    {
+      "Original": [
+        "A woman is standing near three stores, two have beautiful artwork and the other store has Largo written on it.",
+        "A woman standing on a street corner outside beside three different stores, two of which contain beautiful artwork and one with a Largo sign."
+      ],
+      "Mutated": [
+        "A woman is standing near three stores , two have beautiful artwork and the other store has Min written on it .",
+        "A woman standing on a street corner outside beside three different stores, two of which contain beautiful artwork and one with a Largo sign."
+      ],
+      "Confidence": [
+        0.0009810125920921564,
+        0.9128033518791199,
+        0.08621573448181152
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.002816169522702694,
+        0.9807253479957581,
+        0.016458451747894287
+      ]
+    },
+    {
+      "Original": [
+        "First Lady Laura Bush at podium, in front of seated audience, at the White House Conference on Global Literacy.",
+        "Laura Bush gets ready to address a heated issue"
+      ],
+      "Mutated": [
+        "First Lady Gus at podium , in front of seated audience , at the White House Conference on Global Literacy .",
+        "Laura Bush gets ready to address a heated issue"
+      ],
+      "Confidence": [
+        0.0018051215447485447,
+        0.9933738708496094,
+        0.0048210471868515015
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.0026512034237384796,
+        0.9734207391738892,
+        0.02392803318798542
+      ]
+    },
+    {
+      "Original": [
+        "First Lady Laura Bush at podium, in front of seated audience, at the White House Conference on Global Literacy.",
+        "Laura Bush gets ready to address a heated issue"
+      ],
+      "Mutated": [
+        "First Lady Idaline at podium , in front of seated audience , at the White House Conference on Global Literacy .",
+        "Fan gets ready to address a heated issue"
+      ],
+      "Confidence": [
+        0.0018051215447485447,
+        0.9933738708496094,
+        0.0048210471868515015
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.04421735554933548,
+        0.9131069779396057,
+        0.042675599455833435
+      ]
+    },
+    {
+      "Original": [
+        "First Lady Laura Bush at podium, in front of seated audience, at the White House Conference on Global Literacy.",
+        "Laura Bush is giving a talk about the importance of literacy to young people."
+      ],
+      "Mutated": [
+        "First Lady Laura Bush at podium, in front of seated audience, at the White House Conference on Global Literacy.",
+        "Hale is giving a talk about the importance of literacy to young people ."
+      ],
+      "Confidence": [
+        0.000654648698400706,
+        0.996263325214386,
+        0.00308207212947309
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.18230752646923065,
+        0.8071721792221069,
+        0.01052028313279152
+      ]
+    },
+    {
+      "Original": [
+        "First Lady Laura Bush at podium, in front of seated audience, at the White House Conference on Global Literacy.",
+        "Laura Bush is giving a talk about the importance of literacy to young people."
+      ],
+      "Mutated": [
+        "First Lady Jackson at podium , in front of seated audience , at the White House Conference on Global Literacy .",
+        "Micheal is giving a talk about the importance of literacy to young people ."
+      ],
+      "Confidence": [
+        0.000654648698400706,
+        0.996263325214386,
+        0.00308207212947309
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.11977358907461166,
+        0.8684327602386475,
+        0.011793711222708225
+      ]
+    },
+    {
+      "Original": [
+        "A smiling man and a baby girl posing for photo.",
+        "Bob takes his infant daughter for a family photo."
+      ],
+      "Mutated": [
+        "A smiling man and a baby girl posing for photo.",
+        "Hildy takes his infant daughter for a family photo ."
+      ],
+      "Confidence": [
+        0.0016593431355431676,
+        0.9574110507965088,
+        0.04092957451939583
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.0037027280777692795,
+        0.9527416229248047,
+        0.04355568438768387
+      ]
+    },
+    {
+      "Original": [
+        "3 women run in a marathon with the crowd in the background, one with the label Galina and another the label Inga, and the 3rd running close behind them in blue.",
+        "Galina is winning the race."
+      ],
+      "Mutated": [
+        "3 women run in a marathon with the crowd in the background , one with the label Boyd and another the label Che , and the 3rd running close behind them in blue .",
+        "Galina is winning the race."
+      ],
+      "Confidence": [
+        0.01257384568452835,
+        0.9864630103111267,
+        0.0009632812580093741
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.06031360849738121,
+        0.9383537769317627,
+        0.0013325868640094995
+      ]
+    },
+    {
+      "Original": [
+        "3 women run in a marathon with the crowd in the background, one with the label Galina and another the label Inga, and the 3rd running close behind them in blue.",
+        "Galina is winning the race."
+      ],
+      "Mutated": [
+        "3 women run in a marathon with the crowd in the background, one with the label Galina and another the label Inga, and the 3rd running close behind them in blue.",
+        "Waring is winning the race ."
+      ],
+      "Confidence": [
+        0.01257384568452835,
+        0.9864630103111267,
+        0.0009632812580093741
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.2868231534957886,
+        0.7105343341827393,
+        0.002642533276230097
+      ]
+    },
+    {
+      "Original": [
+        "A young man, wearing a T-shirt that says Joplin, plays the guitar in front of a large amplifier.",
+        "The man is a Janice Joplin fan."
+      ],
+      "Mutated": [
+        "A young man , wearing a T - shirt that says Rabi , plays the guitar in front of a large amplifier .",
+        "The man is a Janice Joplin fan."
+      ],
+      "Confidence": [
+        0.002017295453697443,
+        0.9479920268058777,
+        0.049990613013505936
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.04153955727815628,
+        0.9567362666130066,
+        0.001724268076941371
+      ]
+    },
+    {
+      "Original": [
+        "A young man, wearing a T-shirt that says Joplin, plays the guitar in front of a large amplifier.",
+        "The man is a Janice Joplin fan."
+      ],
+      "Mutated": [
+        "A young man, wearing a T-shirt that says Joplin, plays the guitar in front of a large amplifier.",
+        "The man is a Hannie fan ."
+      ],
+      "Confidence": [
+        0.002017295453697443,
+        0.9479920268058777,
+        0.049990613013505936
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.06695764511823654,
+        0.9012156128883362,
+        0.031826648861169815
+      ]
+    },
+    {
+      "Original": [
+        "A young man, wearing a T-shirt that says Joplin, plays the guitar in front of a large amplifier.",
+        "The man is playing an acoustic guitar."
+      ],
+      "Mutated": [
+        "A young man , wearing a T - shirt that says Marita , plays the guitar in front of a large amplifier .",
+        "The man is playing an acoustic guitar."
+      ],
+      "Confidence": [
+        0.0018744566477835178,
+        0.9963850975036621,
+        0.0017404877580702305
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.0014539785915985703,
+        0.9971644282341003,
+        0.0013815701240673661
+      ]
+    },
+    {
+      "Original": [
+        "A guy on Rollerblades, sliding across a rail.",
+        "The male rollerblader is skillfully riding the stair railing."
+      ],
+      "Mutated": [
+        "A guy on Roseline , sliding across a rail .",
+        "The male rollerblader is skillfully riding the stair railing."
+      ],
+      "Confidence": [
+        0.010106682777404785,
+        0.7108879089355469,
+        0.27900534868240356
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.20202234387397766,
+        0.7089626789093018,
+        0.08901500701904297
+      ]
+    },
+    {
+      "Original": [
+        "Many people have decided to take a rest on the steps.",
+        "The people are on the famous steps Rocky runs up in a training montage."
+      ],
+      "Mutated": [
+        "Many people have decided to take a rest on the steps.",
+        "The people are on the famous steps Athene runs up in a training montage ."
+      ],
+      "Confidence": [
+        0.0010592825710773468,
+        0.9977957010269165,
+        0.0011449349112808704
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.0008831568411551416,
+        0.9977970123291016,
+        0.001319885952398181
+      ]
+    },
+    {
+      "Original": [
+        "Performer who is wearing 2 hats a scary mask and a black and white robe.",
+        "The actor playing Voldemort is wearing a scary mask and a black and white robe."
+      ],
+      "Mutated": [
+        "Performer who is wearing 2 hats a scary mask and a black and white robe.",
+        "The actor playing Mitch is wearing a scary mask and a black and white robe ."
+      ],
+      "Confidence": [
+        0.0010071020806208253,
+        0.996863842010498,
+        0.0021290441509336233
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.0008959077531471848,
+        0.9970787763595581,
+        0.002025367459282279
+      ]
+    },
+    {
+      "Original": [
+        "The children play in the pool.",
+        "The children are playing Marco Polo."
+      ],
+      "Mutated": [
+        "The children play in the pool.",
+        "The children are playing Veda ."
+      ],
+      "Confidence": [
+        0.02672741934657097,
+        0.9691851735115051,
+        0.004087434150278568
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.04948719963431358,
+        0.9444453716278076,
+        0.006067383568733931
+      ]
+    },
+    {
+      "Original": [
+        "A man looks mysterious in a blue shirt and a red truck for a company called Wilbert.",
+        "A man approaches a woman's house on business."
+      ],
+      "Mutated": [
+        "A man looks mysterious in a blue shirt and a red truck for a company called Kathlene .",
+        "A man approaches a woman's house on business."
+      ],
+      "Confidence": [
+        0.02192549593746662,
+        0.9732857942581177,
+        0.004788727033883333
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.022248143330216408,
+        0.9697932600975037,
+        0.007958550937473774
+      ]
+    },
+    {
+      "Original": [
+        "A boy wearing a shirt with the Simpsons character, Ralph Wiggum, plays a Nintendo DS with his sister.",
+        "A boy is playing a Nintendo DS with his sister who he loves."
+      ],
+      "Mutated": [
+        "A boy wearing a shirt with the Simpsons character , Paola , plays a Nintendo DS with his sister .",
+        "A boy is playing a Nintendo DS with his sister who he loves."
+      ],
+      "Confidence": [
+        0.0005648626247420907,
+        0.9971655011177063,
+        0.0022696645464748144
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.0005362600786611438,
+        0.9969981908798218,
+        0.0024656038731336594
+      ]
+    },
+    {
+      "Original": [
+        "A woman standing in front of a wall holding a can of Bud Light with her shirt tied into a semi-halter.",
+        "The woman who is shown lives in the South."
+      ],
+      "Mutated": [
+        "A woman standing in front of a wall holding a can of Manon with her shirt tied into a semi - halter .",
+        "The woman who is shown lives in the South."
+      ],
+      "Confidence": [
+        0.0008108531474135816,
+        0.997510552406311,
+        0.0016786132473498583
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.0008349708514288068,
+        0.9975625276565552,
+        0.001602528733201325
+      ]
+    },
+    {
+      "Original": [
+        "Two people play horseshoes.",
+        "Tom and Sue were playing horseshoes."
+      ],
+      "Mutated": [
+        "Two people play horseshoes.",
+        "Greggory and Hayward were playing horseshoes ."
+      ],
+      "Confidence": [
+        0.001183391665108502,
+        0.9975080490112305,
+        0.0013084681704640388
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.0014766436070203781,
+        0.99652498960495,
+        0.0019984093960374594
+      ]
+    },
+    {
+      "Original": [
+        "Two people play horseshoes.",
+        "Tom and Sue were playing outside."
+      ],
+      "Mutated": [
+        "Two people play horseshoes.",
+        "Rubie and Irwin were playing outside ."
+      ],
+      "Confidence": [
+        0.0008324131486006081,
+        0.9970861077308655,
+        0.0020814775489270687
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.0036693699657917023,
+        0.9906685948371887,
+        0.005662054754793644
+      ]
+    },
+    {
+      "Original": [
+        "An adventurous man navigates through the jungle with a long stick.",
+        "An adventurous man navigates through the jungle, searching for a rare babboon."
+      ],
+      "Mutated": [
+        "An adventurous man navigates through the jungle with a long stick.",
+        "An adventurous man navigates through the jungle , searching for a rare Mohamad ."
+      ],
+      "Confidence": [
+        0.0008847875869832933,
+        0.9977655410766602,
+        0.0013496779138222337
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.000877819606103003,
+        0.9978092312812805,
+        0.0013129744911566377
+      ]
+    },
+    {
+      "Original": [
+        "Cook handling hot tray with food on it.",
+        "man preparing meal for wife"
+      ],
+      "Mutated": [
+        "Lanie handling hot tray with food on it .",
+        "man preparing meal for wife"
+      ],
+      "Confidence": [
+        0.0076212030835449696,
+        0.9583748579025269,
+        0.034003984183073044
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.0029871913138777018,
+        0.8992605209350586,
+        0.09775221347808838
+      ]
+    },
+    {
+      "Original": [
+        "Guy in uniform standing on the side of a boat moving through the water.",
+        "A man in the Navy stands on a boat in the cool air."
+      ],
+      "Mutated": [
+        "Kellie in uniform standing on the side of a boat moving through the water .",
+        "A man in the Navy stands on a boat in the cool air."
+      ],
+      "Confidence": [
+        0.0017115033697336912,
+        0.9912070631980896,
+        0.007081456016749144
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.02074812538921833,
+        0.9003649353981018,
+        0.0788869634270668
+      ]
+    },
+    {
+      "Original": [
+        "Guy in uniform standing on the side of a boat moving through the water.",
+        "A man in the Navy is sailing through the water."
+      ],
+      "Mutated": [
+        "Madelaine in uniform standing on the side of a boat moving through the water .",
+        "A man in the Navy is sailing through the water."
+      ],
+      "Confidence": [
+        0.009248302318155766,
+        0.8407600522041321,
+        0.14999167621135712
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.1581190675497055,
+        0.7261303067207336,
+        0.11575060337781906
+      ]
+    },
+    {
+      "Original": [
+        "A man in tribal dress is walking down the street while spectators are standing behind red and white barrier tape.",
+        "A native american actor is about to re-inact a famous gunfight at a tourist ghosttown"
+      ],
+      "Mutated": [
+        "A man in tribal dress is walking down the street while spectators are standing behind red and white barrier tape.",
+        "A native american actor is about to re - inact a famous gunfight at a tourist Sean"
+      ],
+      "Confidence": [
+        0.0025134964380413294,
+        0.9944703578948975,
+        0.0030161940958350897
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.002639858517795801,
+        0.9914993643760681,
+        0.005860785022377968
+      ]
+    },
+    {
+      "Original": [
+        "Two people cooking a meal together in a household kitchen.",
+        "The people are cooking a dinner for Valentine's Day."
+      ],
+      "Mutated": [
+        "Two people cooking a meal together in a household kitchen.",
+        "The people are cooking a dinner for Elfie 's Day ."
+      ],
+      "Confidence": [
+        0.0014780610799789429,
+        0.997579038143158,
+        0.0009429039200767875
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.001524052582681179,
+        0.9975698590278625,
+        0.0009060676675289869
+      ]
+    },
+    {
+      "Original": [
+        "a woman with brown hair sitting on a bench outside a cafe.",
+        "Brunette woman sitting outside a cafe."
+      ],
+      "Mutated": [
+        "a woman with brown hair sitting on a bench outside a cafe.",
+        "Calhoun woman sitting outside a cafe ."
+      ],
+      "Confidence": [
+        0.25408217310905457,
+        0.4136252999305725,
+        0.33229249715805054
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.0998079851269722,
+        0.8390104174613953,
+        0.061181653290987015
+      ]
+    },
+    {
+      "Original": [
+        "children are sitting in chairs with a music stand in the background.",
+        "Children are having fun at Tommy's birthday party."
+      ],
+      "Mutated": [
+        "children are sitting in chairs with a music stand in the background.",
+        "Children are having fun at Augustin 's birthday party ."
+      ],
+      "Confidence": [
+        0.0014971885830163956,
+        0.9974972605705261,
+        0.0010055310558527708
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.0015714934561401606,
+        0.9974147081375122,
+        0.0010137275094166398
+      ]
+    },
+    {
+      "Original": [
+        "An older man is speaking to a boy while both are sitting.",
+        "Grandpa is lecturing"
+      ],
+      "Mutated": [
+        "An older man is speaking to a boy while both are sitting.",
+        "Val is lecturing"
+      ],
+      "Confidence": [
+        0.0017537045059725642,
+        0.9767946600914001,
+        0.021451551467180252
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.011350998654961586,
+        0.8948689699172974,
+        0.0937800481915474
+      ]
+    },
+    {
+      "Original": [
+        "A guy in a bright green hoodie is crossing a crosswalk while looking at an accident between some cars and a bike.",
+        "A guy looks upon a collision between two Hondas and a Schwinn."
+      ],
+      "Mutated": [
+        "A guy in a bright green hoodie is crossing a crosswalk while looking at an accident between some cars and a bike.",
+        "A guy looks upon a collision between two Hondas and a Solomon ."
+      ],
+      "Confidence": [
+        0.0025831942912191153,
+        0.9927642941474915,
+        0.004652575124055147
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.005191848613321781,
+        0.9841533303260803,
+        0.010654780082404613
+      ]
+    },
+    {
+      "Original": [
+        "Two women stand in the street both wearing matching outfits with police like jackets that say Polotie.",
+        "Two women are taking place in a protest by dressing as police."
+      ],
+      "Mutated": [
+        "Two women stand in the street both wearing matching outfits with police like jackets that say Domenic .",
+        "Two women are taking place in a protest by dressing as police."
+      ],
+      "Confidence": [
+        0.0027821266558021307,
+        0.9539991617202759,
+        0.043218664824962616
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.0027153727132827044,
+        0.9636693596839905,
+        0.03361523151397705
+      ]
+    },
+    {
+      "Original": [
+        "Two men wearing red jackets are looking out over some water and one man has yellow earphones on his ears.",
+        "The man listening to music is listening to Kanye West."
+      ],
+      "Mutated": [
+        "Two men wearing red jackets are looking out over some water and one man has yellow earphones on his ears.",
+        "The man listening to music is listening to Bonny ."
+      ],
+      "Confidence": [
+        0.0012954589910805225,
+        0.9976940751075745,
+        0.0010104181710630655
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.001541952253319323,
+        0.9975451827049255,
+        0.0009128066594712436
+      ]
+    },
+    {
+      "Original": [
+        "Two girls in a crowd are dressed up, one as the cartoon character Wall-E.",
+        "Two girls cosplay at a convention."
+      ],
+      "Mutated": [
+        "Two girls in a crowd are dressed up , one as the cartoon character Camile",
+        "Two girls cosplay at a convention."
+      ],
+      "Confidence": [
+        0.0005565985920839012,
+        0.9926371574401855,
+        0.006806191522628069
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.0006633606390096247,
+        0.9912482500076294,
+        0.008088333532214165
+      ]
+    },
+    {
+      "Original": [
+        "Two girls in a crowd are dressed up, one as the cartoon character Wall-E.",
+        "A few girls cosplay at a local event."
+      ],
+      "Mutated": [
+        "Two girls in a crowd are dressed up , one as the cartoon character Camila",
+        "A few girls cosplay at a local event."
+      ],
+      "Confidence": [
+        0.0006872073281556368,
+        0.9794548749923706,
+        0.019857855513691902
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.0005465209833346307,
+        0.9898360371589661,
+        0.009617448784410954
+      ]
+    },
+    {
+      "Original": [
+        "Two girls in a crowd are dressed up, one as the cartoon character Wall-E.",
+        "Two girls attend a convention."
+      ],
+      "Mutated": [
+        "Two girls in a crowd are dressed up , one as the cartoon character Antoinette",
+        "Two girls attend a convention."
+      ],
+      "Confidence": [
+        0.0014756149612367153,
+        0.9929426908493042,
+        0.005581729579716921
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.0017068926244974136,
+        0.9920130372047424,
+        0.0062800077721476555
+      ]
+    },
+    {
+      "Original": [
+        "On the ground a boy in a red sweatshirt is leaning over holding a football and two other kids.",
+        "Timmy hikes the ball as Joe calls the plays"
+      ],
+      "Mutated": [
+        "On the ground a boy in a red sweatshirt is leaning over holding a football and two other kids.",
+        "Hezekiah hikes the ball as Brett calls the plays"
+      ],
+      "Confidence": [
+        0.012189934030175209,
+        0.9852509498596191,
+        0.002559115644544363
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.00779301393777132,
+        0.9899262189865112,
+        0.002280720043927431
+      ]
+    },
+    {
+      "Original": [
+        "Red capped male dressed in white shirt and dark shorts is standing on small green boat located water in tall grassy bank.",
+        "A man wears a white Tommy Hilfiger shirt."
+      ],
+      "Mutated": [
+        "Red capped male dressed in white shirt and dark shorts is standing on small green boat located water in tall grassy bank.",
+        "A man wears a white Hadrian shirt ."
+      ],
+      "Confidence": [
+        0.0009934052359312773,
+        0.9977033734321594,
+        0.0013032971182838082
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.0037322305142879486,
+        0.9751861691474915,
+        0.02108159475028515
+      ]
+    },
+    {
+      "Original": [
+        "A boy and a girl stand in a median amongst Mike Huckabee signs.",
+        "A boy and girl are putting up signs for their candidate."
+      ],
+      "Mutated": [
+        "A boy and a girl stand in a median amongst Chriss signs .",
+        "A boy and girl are putting up signs for their candidate."
+      ],
+      "Confidence": [
+        0.0020894864574074745,
+        0.5827257633209229,
+        0.41518470644950867
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.0020362285431474447,
+        0.9942282438278198,
+        0.003735593054443598
+      ]
+    },
+    {
+      "Original": [
+        "A lady digs through a garbage can looking to add to the shopping cart beside her.",
+        "Lady is searching for food in garbage"
+      ],
+      "Mutated": [
+        "A lady digs through a garbage can looking to add to the shopping cart beside her.",
+        "Rollins is searching for food in garbage"
+      ],
+      "Confidence": [
+        0.067006915807724,
+        0.8591932058334351,
+        0.07379996031522751
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.030088508501648903,
+        0.9422884583473206,
+        0.027623014524579048
+      ]
+    },
+    {
+      "Original": [
+        "A lady digs through a garbage can looking to add to the shopping cart beside her.",
+        "Lady is making burger for her kids"
+      ],
+      "Mutated": [
+        "A lady digs through a garbage can looking to add to the shopping cart beside her.",
+        "Ximenes is making burger for her kids"
+      ],
+      "Confidence": [
+        0.1922042965888977,
+        0.804158627986908,
+        0.003637050511315465
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.339812695980072,
+        0.6478123068809509,
+        0.012375053018331528
+      ]
+    },
+    {
+      "Original": [
+        "A little boy and his father talking to a man dressed as Santa Claws.",
+        "A boy and his father discuss Christmas with Santa Claus"
+      ],
+      "Mutated": [
+        "A little boy and his father talking to a man dressed as Santa Claws.",
+        "A boy and his father discuss Christmas with Rodie"
+      ],
+      "Confidence": [
+        0.005261463578790426,
+        0.9779035449028015,
+        0.01683502085506916
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.023505495861172676,
+        0.9618540406227112,
+        0.014640445820987225
+      ]
+    },
+    {
+      "Original": [
+        "An Obama Biden supporter cheers for the Presidential candidate and his running mate.",
+        "A man is at a political rally."
+      ],
+      "Mutated": [
+        "An Clayton supporter cheers for the Presidential candidate and his running mate .",
+        "A man is at a political rally."
+      ],
+      "Confidence": [
+        0.002888221526518464,
+        0.7248704433441162,
+        0.2722413241863251
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.004948737565428019,
+        0.5658444762229919,
+        0.4292067885398865
+      ]
+    },
+    {
+      "Original": [
+        "Tan dog running through long grass in a park-like setting.",
+        "A dog runs after a squirrel."
+      ],
+      "Mutated": [
+        "Earle dog running through long grass in a park - like setting .",
+        "A dog runs after a squirrel."
+      ],
+      "Confidence": [
+        0.0047121113166213036,
+        0.993582010269165,
+        0.0017059659585356712
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.0038336054421961308,
+        0.9948596954345703,
+        0.00130671844817698
+      ]
+    },
+    {
+      "Original": [
+        "An older man in a light green shirt and dark green pants holds the hand of an older woman as they pass an outside eatery with teal umbrellas.",
+        "An older looking couple is glancing through a glass window of a busy restaurant."
+      ],
+      "Mutated": [
+        "An older man in a light green shirt and dark green pants holds the hand of an older woman as they pass an outside eatery with Thorndike umbrellas .",
+        "An older looking couple is glancing through a glass window of a busy restaurant."
+      ],
+      "Confidence": [
+        0.0057775904424488544,
+        0.9673069715499878,
+        0.026915429159998894
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.003994808066636324,
+        0.965969979763031,
+        0.030035242438316345
+      ]
+    },
+    {
+      "Original": [
+        "An older man in a light green shirt and dark green pants holds the hand of an older woman as they pass an outside eatery with teal umbrellas.",
+        "An older looking couple is riding in the back of a taxi in the middle of a city."
+      ],
+      "Mutated": [
+        "An older man in a light green shirt and dark green pants holds the hand of an older woman as they pass an outside eatery with Roxana umbrellas .",
+        "An older looking couple is riding in the back of a taxi in the middle of a city."
+      ],
+      "Confidence": [
+        0.026788271963596344,
+        0.9552803635597229,
+        0.01793139986693859
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.023092318326234818,
+        0.9608882069587708,
+        0.016019515693187714
+      ]
+    },
+    {
+      "Original": [
+        "Brown and cream dog with tongue out in front of grassy forest",
+        "The dog is lying on the ground."
+      ],
+      "Mutated": [
+        "Marge and cream dog with tongue out in front of grassy forest",
+        "The dog is lying on the ground."
+      ],
+      "Confidence": [
+        0.29157137870788574,
+        0.7006765007972717,
+        0.007752084173262119
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.1311519891023636,
+        0.8619803786277771,
+        0.006867644842714071
+      ]
+    },
+    {
+      "Original": [
+        "Brown and cream dog with tongue out in front of grassy forest",
+        "The dog is contemplating whether it should enter the grassy forest."
+      ],
+      "Mutated": [
+        "Johanna and cream dog with tongue out in front of grassy forest",
+        "The dog is contemplating whether it should enter the grassy forest."
+      ],
+      "Confidence": [
+        0.0008378101629205048,
+        0.9961856007575989,
+        0.0029766028746962547
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.0008079850231297314,
+        0.9953805208206177,
+        0.0038115044590085745
+      ]
+    },
+    {
+      "Original": [
+        "A young redheaded girl in a blue shirt is walking and talking with a boy in black Pearl Jam shirt.",
+        "A couple of young people are at a concert."
+      ],
+      "Mutated": [
+        "A young redheaded girl in a blue shirt is walking and talking with a boy in black Zared shirt .",
+        "A couple of young people are at a concert."
+      ],
+      "Confidence": [
+        0.021782375872135162,
+        0.948817789554596,
+        0.029399843886494637
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.22311367094516754,
+        0.7588375806808472,
+        0.018048731610178947
+      ]
+    },
+    {
+      "Original": [
+        "A young woman cooks a meal in a wok while conversing with another woman, as an illuminated shrine to Mr. T looks on.",
+        "A young chef teaches her sister how to prepare a recipe."
+      ],
+      "Mutated": [
+        "A young woman cooks a meal in a wok while conversing with another woman , as an illuminated shrine to Mr. Alysa looks on .",
+        "A young chef teaches her sister how to prepare a recipe."
+      ],
+      "Confidence": [
+        0.08997803181409836,
+        0.9013473391532898,
+        0.008674705401062965
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.10924110561609268,
+        0.8823479413986206,
+        0.008410987444221973
+      ]
+    },
+    {
+      "Original": [
+        "Four people walking beside each other down a street, one of the men is turned around looking toward the camera.",
+        "A group of friends are headed to Wendys"
+      ],
+      "Mutated": [
+        "Four people walking beside each other down a street, one of the men is turned around looking toward the camera.",
+        "A group of friends are headed to Ardath"
+      ],
+      "Confidence": [
+        0.0012387753231450915,
+        0.9977219700813293,
+        0.00103926588781178
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.001198574434965849,
+        0.9977415800094604,
+        0.0010599263478070498
+      ]
+    },
+    {
+      "Original": [
+        "A man is spinning a little girl in the air above his head.",
+        "A man is playing Monopoly with a little girl."
+      ],
+      "Mutated": [
+        "A man is spinning a little girl in the air above his head.",
+        "A man is playing Prudy with a little girl ."
+      ],
+      "Confidence": [
+        0.083976611495018,
+        0.9041581749916077,
+        0.011865239590406418
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.08309313654899597,
+        0.8197401762008667,
+        0.09716665744781494
+      ]
+    },
+    {
+      "Original": [
+        "A boy dressed for summer in a green shirt and kahki shorts extends food to a reindeer in a petting zoo.",
+        "A boy dressed for summer in a tight green shirt and kahki shorts"
+      ],
+      "Mutated": [
+        "A boy dressed for summer in a green shirt and kahki shorts extends food to a reindeer in a petting zoo.",
+        "A boy dressed for summer in a tight green shirt and Monroe"
+      ],
+      "Confidence": [
+        0.0012196748284623027,
+        0.8905041813850403,
+        0.10827625542879105
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.05873255059123039,
+        0.729742169380188,
+        0.21152538061141968
+      ]
+    },
+    {
+      "Original": [
+        "A woman rollerblader with knee and elbow pads and a helmet jumping into the air.",
+        "the woman is a professional skater"
+      ],
+      "Mutated": [
+        "A woman Emelyne with knee and elbow pads and a helmet jumping into the air .",
+        "the woman is a professional skater"
+      ],
+      "Confidence": [
+        0.007104409858584404,
+        0.958927571773529,
+        0.033967968076467514
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.004192001651972532,
+        0.989453911781311,
+        0.006354067474603653
+      ]
+    },
+    {
+      "Original": [
+        "Two women are laughing and smiling while they eat a meal together.",
+        "Lilly and Sally were laughing while eating lunch."
+      ],
+      "Mutated": [
+        "Two women are laughing and smiling while they eat a meal together.",
+        "Lilly and Raj were laughing while eating lunch ."
+      ],
+      "Confidence": [
+        0.0009507708018645644,
+        0.9962325692176819,
+        0.002816667314618826
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.001330624450929463,
+        0.9961750507354736,
+        0.0024942595046013594
+      ]
+    },
+    {
+      "Original": [
+        "Two women are laughing and smiling while they eat a meal together.",
+        "Lilly and Sally were eating lunch."
+      ],
+      "Mutated": [
+        "Two women are laughing and smiling while they eat a meal together.",
+        "Lilly and Pavia were eating lunch ."
+      ],
+      "Confidence": [
+        0.0010521620279178023,
+        0.9973338842391968,
+        0.0016139482613652945
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.0011650456581264734,
+        0.9971676468849182,
+        0.001667334814555943
+      ]
+    },
+    {
+      "Original": [
+        "A man interviews a boy in a gathering of people.",
+        "A man interviews a child about his view on terrorism and Barney."
+      ],
+      "Mutated": [
+        "A man interviews a boy in a gathering of people.",
+        "A man interviews a child about his view on terrorism and Zenia ."
+      ],
+      "Confidence": [
+        0.0016730125062167645,
+        0.9973974227905273,
+        0.0009295905474573374
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.0014760232297703624,
+        0.9975646734237671,
+        0.0009593027061782777
+      ]
+    }
+  ],
+  "GPE2": [
+    {
+      "Original": [
+        "Bruce Springsteen, with one arm outstretched, is singing in the spotlight in a dark concert hall.",
+        "Bruce Springsteen is from Florida."
+      ],
+      "Mutated": [
+        "Bruce Springsteen, with one arm outstretched, is singing in the spotlight in a dark concert hall.",
+        "Bruce Springsteen is from Royside ."
+      ],
+      "Confidence": [
+        0.008894100785255432,
+        0.9894042015075684,
+        0.0017016716301441193
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.0737147107720375,
+        0.9213680028915405,
+        0.004917213227599859
+      ]
+    },
+    {
+      "Original": [
+        "A man in an Alaska sweatshirt stands behind a counter.",
+        "The man is from Alaska."
+      ],
+      "Mutated": [
+        "A man in an Alaska sweatshirt stands behind a counter.",
+        "The man is from Brendaborough ."
+      ],
+      "Confidence": [
+        0.0032269370276480913,
+        0.9538722038269043,
+        0.04290078580379486
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.43804240226745605,
+        0.5555898547172546,
+        0.0063677518628537655
+      ]
+    },
+    {
+      "Original": [
+        "A man in an Alaska sweatshirt stands behind a counter.",
+        "The man is from Alaska."
+      ],
+      "Mutated": [
+        "A man in an East Melissa sweatshirt stands behind a counter .",
+        "The man is from Puerto Rico ."
+      ],
+      "Confidence": [
+        0.0032269370276480913,
+        0.9538722038269043,
+        0.04290078580379486
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.010904228314757347,
+        0.9874815344810486,
+        0.0016142975073307753
+      ]
+    },
+    {
+      "Original": [
+        "Some dogs are running on a deserted beach.",
+        "They are in Hawaii."
+      ],
+      "Mutated": [
+        "Some dogs are running on a deserted beach.",
+        "They are in Emilystad ."
+      ],
+      "Confidence": [
+        0.0041208588518202305,
+        0.9950672388076782,
+        0.0008118426776491106
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.0444464385509491,
+        0.9531446695327759,
+        0.0024089044891297817
+      ]
+    },
+    {
+      "Original": [
+        "A kid playing a game called The Derby.",
+        "The child is playing a game for fun."
+      ],
+      "Mutated": [
+        "A kid playing a game called The Bosnia and Herzegovina .",
+        "The child is playing a game for fun."
+      ],
+      "Confidence": [
+        0.0011832175077870488,
+        0.8394467234611511,
+        0.15937002003192902
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.0007627381128259003,
+        0.9569731950759888,
+        0.04226404428482056
+      ]
+    },
+    {
+      "Original": [
+        "San Fransisco 49ers football field with cheerleaders and a packed stadium.",
+        "A popular football team in California has many fans."
+      ],
+      "Mutated": [
+        "Saint Lucia 49ers football field with cheerleaders and a packed stadium .",
+        "A popular football team in California has many fans."
+      ],
+      "Confidence": [
+        0.0009559497120790184,
+        0.698337733745575,
+        0.3007063567638397
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.06568816304206848,
+        0.8816691637039185,
+        0.052642565220594406
+      ]
+    },
+    {
+      "Original": [
+        "San Fransisco 49ers football field with cheerleaders and a packed stadium.",
+        "A popular football team in California has many fans."
+      ],
+      "Mutated": [
+        "New Jeffreyshire 49ers football field with cheerleaders and a packed stadium .",
+        "A popular football team in West Darrenport has many fans ."
+      ],
+      "Confidence": [
+        0.0009559497120790184,
+        0.698337733745575,
+        0.3007063567638397
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.0033805430866777897,
+        0.8530320525169373,
+        0.1435873955488205
+      ]
+    },
+    {
+      "Original": [
+        "San Fransisco 49ers football field with cheerleaders and a packed stadium.",
+        "The 49ers are ready to play versus their rivals."
+      ],
+      "Mutated": [
+        "Saudi Arabia 49ers football field with cheerleaders and a packed stadium .",
+        "The 49ers are ready to play versus their rivals."
+      ],
+      "Confidence": [
+        0.0034299110993742943,
+        0.9846476316452026,
+        0.01192245353013277
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.003943925257772207,
+        0.990037202835083,
+        0.006018879823386669
+      ]
+    },
+    {
+      "Original": [
+        "Three men in Soldier dress and helmets stand with guns outside of a building.",
+        "There are people avoiding traffic on a busy New York street."
+      ],
+      "Mutated": [
+        "Three men in Soldier dress and helmets stand with guns outside of a building.",
+        "There are people avoiding traffic on a busy Ecuador street ."
+      ],
+      "Confidence": [
+        0.4573819041252136,
+        0.4874052405357361,
+        0.05521278828382492
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.45336833596229553,
+        0.46036574244499207,
+        0.0862659215927124
+      ]
+    },
+    {
+      "Original": [
+        "A woman raises her arms as she looks out over the water at the setting sun.",
+        "a woman enjoying a florida beacj"
+      ],
+      "Mutated": [
+        "A woman raises her arms as she looks out over the water at the setting sun.",
+        "a woman enjoying a Harttown beacj"
+      ],
+      "Confidence": [
+        0.01354959700256586,
+        0.9561594724655151,
+        0.030290942639112473
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.007921941578388214,
+        0.976436972618103,
+        0.015641042962670326
+      ]
+    },
+    {
+      "Original": [
+        "Times Square in New York.",
+        "Times Square is packed."
+      ],
+      "Mutated": [
+        "Times Square in Costa Rica .",
+        "Times Square is packed."
+      ],
+      "Confidence": [
+        0.002622587140649557,
+        0.9906545281410217,
+        0.006722892168909311
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.0031437999568879604,
+        0.9943761825561523,
+        0.002480053575709462
+      ]
+    },
+    {
+      "Original": [
+        "A man is steering his ship out at sea.",
+        "A man is sailing to Cuba."
+      ],
+      "Mutated": [
+        "A man is steering his ship out at sea.",
+        "A man is sailing to Guernsey ."
+      ],
+      "Confidence": [
+        0.0015248883282765746,
+        0.9975473284721375,
+        0.0009277993813157082
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.0013629223685711622,
+        0.9976714253425598,
+        0.0009656114270910621
+      ]
+    },
+    {
+      "Original": [
+        "A young man waits on a bench with his bag behind a few advertisements in London.",
+        "The advertisements behind him are for a food."
+      ],
+      "Mutated": [
+        "A young man waits on a bench with his bag behind a few advertisements in Egypt .",
+        "The advertisements behind him are for a food."
+      ],
+      "Confidence": [
+        0.001767882495187223,
+        0.9972836971282959,
+        0.0009484237525612116
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.0016846135258674622,
+        0.9973674416542053,
+        0.0009479874279350042
+      ]
+    },
+    {
+      "Original": [
+        "People looking at their reflection and the reflection of a city in a long irregular shaped mirror",
+        "People look at their reflection in New York City."
+      ],
+      "Mutated": [
+        "People looking at their reflection and the reflection of a city in a long irregular shaped mirror",
+        "People look at their reflection in Barbarashire ."
+      ],
+      "Confidence": [
+        0.000616630248259753,
+        0.9973600506782532,
+        0.0020233169198036194
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.013225686736404896,
+        0.9722768068313599,
+        0.014497468248009682
+      ]
+    },
+    {
+      "Original": [
+        "Man in dark shirt, yellow shorts and yellow bandanna leaps to catch a white frisbee on a soccer court.",
+        "a man is competing with others on a soccor court"
+      ],
+      "Mutated": [
+        "Man in dark shirt, yellow shorts and yellow bandanna leaps to catch a white frisbee on a soccer court.",
+        "a man is competing with others on a West Amandachester court"
+      ],
+      "Confidence": [
+        0.0015738913789391518,
+        0.8428360223770142,
+        0.1555900275707245
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.0013271314091980457,
+        0.9852805733680725,
+        0.013392232358455658
+      ]
+    },
+    {
+      "Original": [
+        "A woman wearing a white coat skis down a snowy hill.",
+        "A woman is skiing down a hill in Colorado."
+      ],
+      "Mutated": [
+        "A woman wearing a white coat skis down a snowy hill.",
+        "A woman is skiing down a hill in Azerbaijan ."
+      ],
+      "Confidence": [
+        0.0008303969516418874,
+        0.9977282881736755,
+        0.001441260683350265
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.0009540179162286222,
+        0.9977534413337708,
+        0.0012925162445753813
+      ]
+    },
+    {
+      "Original": [
+        "A boat pear with people boarding and disembarking some boats.",
+        "people are at a nascar race"
+      ],
+      "Mutated": [
+        "A boat pear with people boarding and disembarking some boats.",
+        "people are at a Greece race"
+      ],
+      "Confidence": [
+        0.06546754390001297,
+        0.9322116374969482,
+        0.002320785541087389
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.005098024848848581,
+        0.9939349293708801,
+        0.0009670269209891558
+      ]
+    },
+    {
+      "Original": [
+        "Two men stand in the road, it almost appears to be some sort of movie set on a sunny day in California.",
+        "Tall people standing"
+      ],
+      "Mutated": [
+        "Two men stand in the road , it almost appears to be some sort of movie set on a sunny day in Iceland .",
+        "Tall people standing"
+      ],
+      "Confidence": [
+        0.00798528827726841,
+        0.7822069525718689,
+        0.20980776846408844
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.007480137050151825,
+        0.7797057628631592,
+        0.2128140777349472
+      ]
+    },
+    {
+      "Original": [
+        "A man waiting for the bus in a war torn country.",
+        "A man is waiting for a bus in Iraq."
+      ],
+      "Mutated": [
+        "A man waiting for the bus in a war torn country.",
+        "A man is waiting for a bus in Albania ."
+      ],
+      "Confidence": [
+        0.0010987893911078572,
+        0.9962324500083923,
+        0.0026688352227211
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.036647241562604904,
+        0.9472823739051819,
+        0.016070323064923286
+      ]
+    },
+    {
+      "Original": [
+        "A woman in a gray kimono walks past a black car in the middle of a crowded street full of Japanese signs, with a man in an orange shirt and khaki slacks.",
+        "A woman is walking down a busy street in Tokyo."
+      ],
+      "Mutated": [
+        "A woman in a gray kimono walks past a black car in the middle of a crowded street full of Japanese signs, with a man in an orange shirt and khaki slacks.",
+        "A woman is walking down a busy street in South Robertaborough ."
+      ],
+      "Confidence": [
+        0.0004664942098315805,
+        0.9957140684127808,
+        0.003819508943706751
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.0007061070646159351,
+        0.9971386194229126,
+        0.0021553407423198223
+      ]
+    },
+    {
+      "Original": [
+        "A view of bicyclists on a city street, riding in both directions, with red reflective safety cones dividing the two lanes.",
+        "The road is in China."
+      ],
+      "Mutated": [
+        "A view of bicyclists on a city street, riding in both directions, with red reflective safety cones dividing the two lanes.",
+        "The road is in Maxwelltown ."
+      ],
+      "Confidence": [
+        0.001495890668593347,
+        0.9975196719169617,
+        0.0009844141313806176
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.0009728674194775522,
+        0.9978064894676208,
+        0.0012205906677991152
+      ]
+    },
+    {
+      "Original": [
+        "Two construction workers talk while looking at a Naval ship.",
+        "The workers are on break."
+      ],
+      "Mutated": [
+        "Two construction workers talk while looking at a Port Diana ship .",
+        "The workers are on break."
+      ],
+      "Confidence": [
+        0.00195473269559443,
+        0.9971966743469238,
+        0.0008485642028972507
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.0022136042825877666,
+        0.9969848990440369,
+        0.0008014952763915062
+      ]
+    },
+    {
+      "Original": [
+        "Two construction workers talk while looking at a Naval ship.",
+        "The workers are close to the water."
+      ],
+      "Mutated": [
+        "Two construction workers talk while looking at a Malta ship .",
+        "The workers are close to the water."
+      ],
+      "Confidence": [
+        0.003460809588432312,
+        0.8651261329650879,
+        0.13141311705112457
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.002601567655801773,
+        0.8892665505409241,
+        0.10813190788030624
+      ]
+    },
+    {
+      "Original": [
+        "A man dressed in a blue shirt, tan shorts, and a red baseball cap is examining a red antique car with an U.S. flag attached in the rear.",
+        "A restored car being inspected by a potential buyer."
+      ],
+      "Mutated": [
+        "A man dressed in a blue shirt , tan shorts , and a red baseball cap is examining a red antique car with an Jamaica flag attached in the rear .",
+        "A restored car being inspected by a potential buyer."
+      ],
+      "Confidence": [
+        0.003338790964335203,
+        0.6995013952255249,
+        0.2971598207950592
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.003953414969146252,
+        0.8128407001495361,
+        0.18320584297180176
+      ]
+    },
+    {
+      "Original": [
+        "A guy in a yellow shirt performs a balancing act on a taught chain near a canal.",
+        "A man is performing a balancing trick over a large canal in Venice."
+      ],
+      "Mutated": [
+        "A guy in a yellow shirt performs a balancing act on a taught chain near a canal.",
+        "A man is performing a balancing trick over a large canal in Guadeloupe ."
+      ],
+      "Confidence": [
+        0.0006435729446820915,
+        0.9975123405456543,
+        0.0018441267311573029
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.0006475861882790923,
+        0.9974709749221802,
+        0.001881487318314612
+      ]
+    },
+    {
+      "Original": [
+        "A woman in a US military uniform is writing on a large piece of white paper with a black magic marker while others are sitting at tables around her.",
+        "A woman is trying to write a letter to her daughter in the states"
+      ],
+      "Mutated": [
+        "A woman in a Sao Tome and Principe military uniform is writing on a large piece of white paper with a black magic marker while others are sitting at tables around her .",
+        "A woman is trying to write a letter to her daughter in the states"
+      ],
+      "Confidence": [
+        0.0012315796921029687,
+        0.9975082874298096,
+        0.0012600909685716033
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.0015973938861861825,
+        0.9970353841781616,
+        0.001367175835184753
+      ]
+    },
+    {
+      "Original": [
+        "A U.S. soldier helps a young girl in the hands of her father, while other soldiers look on.",
+        "The girl has a troubled expression."
+      ],
+      "Mutated": [
+        "A Hessborough soldier helps a young girl in the hands of her father , while other soldiers look on .",
+        "The girl has a troubled expression."
+      ],
+      "Confidence": [
+        0.0018548041116446257,
+        0.9970023036003113,
+        0.0011429269798099995
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.0015385650331154466,
+        0.9974077343940735,
+        0.0010536427143961191
+      ]
+    },
+    {
+      "Original": [
+        "An accident involving a green Sudan and a gray van.",
+        "The gray van had smashed the green sedan's bumper off."
+      ],
+      "Mutated": [
+        "An accident involving a green Port Natalie and a gray van .",
+        "The gray van had smashed the green sedan's bumper off."
+      ],
+      "Confidence": [
+        0.0017498204251751304,
+        0.9973909854888916,
+        0.0008591731311753392
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.0016350311925634742,
+        0.9974853992462158,
+        0.0008795220055617392
+      ]
+    },
+    {
+      "Original": [
+        "A red Planet Hollywood bus carries many people including a man in an orange shirt and baseball cap, one woman wearing a purple shirt and another in a red shirt with her back to the camera.",
+        "The bus is going to celebrity houses."
+      ],
+      "Mutated": [
+        "A red Planet Baxterside bus carries many people including a man in an orange shirt and baseball cap , one woman wearing a purple shirt and another in a red shirt with her back to the camera .",
+        "The bus is going to celebrity houses."
+      ],
+      "Confidence": [
+        0.001753494841977954,
+        0.9965158700942993,
+        0.0017305827932432294
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.0018327297875657678,
+        0.9973064661026001,
+        0.0008607154595665634
+      ]
+    },
+    {
+      "Original": [
+        "A woman in a long, dark coat looks through trashcans in Winter.",
+        "A woman older than thirty is outside in winter."
+      ],
+      "Mutated": [
+        "A woman in a long , dark coat looks through trashcans in Azerbaijan .",
+        "A woman older than thirty is outside in winter."
+      ],
+      "Confidence": [
+        0.0013868871610611677,
+        0.6300925612449646,
+        0.3685205578804016
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.0018585555953904986,
+        0.879216194152832,
+        0.11892532557249069
+      ]
+    },
+    {
+      "Original": [
+        "A man in a blue shirt was arguing with a man in a green jacket and started to raise his fist in anger.",
+        "a man argues with another who is making threatening jeastures"
+      ],
+      "Mutated": [
+        "A man in a blue shirt was arguing with a man in a green jacket and started to raise his fist in anger.",
+        "a man argues with another who is making threatening New Russell"
+      ],
+      "Confidence": [
+        0.001666913740336895,
+        0.9878403544425964,
+        0.010492775589227676
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.002642497420310974,
+        0.9931585192680359,
+        0.00419896375387907
+      ]
+    },
+    {
+      "Original": [
+        "Two men with graying beards share a laugh while enjoying the nice weather.",
+        "The men are laughing about the us losing the cold war."
+      ],
+      "Mutated": [
+        "Two men with graying beards share a laugh while enjoying the nice weather.",
+        "The men are laughing about the New Johnmouth losing the cold war ."
+      ],
+      "Confidence": [
+        0.2591244578361511,
+        0.7383909225463867,
+        0.0024846699088811874
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.19903147220611572,
+        0.7984313368797302,
+        0.0025372484233230352
+      ]
+    },
+    {
+      "Original": [
+        "A woman in a bright pink and green skirt carries a large wicker basket on her back up a stone-cobbled street.",
+        "The woman is playing soccer in the cobble stone streets of Brazil."
+      ],
+      "Mutated": [
+        "A woman in a bright pink and green skirt carries a large wicker basket on her back up a stone-cobbled street.",
+        "The woman is playing soccer in the cobble stone streets of Mongolia ."
+      ],
+      "Confidence": [
+        0.3682454824447632,
+        0.6291830539703369,
+        0.0025713492650538683
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.36901843547821045,
+        0.6286653280258179,
+        0.002316254423931241
+      ]
+    },
+    {
+      "Original": [
+        "A woman in a bright pink and green skirt carries a large wicker basket on her back up a stone-cobbled street.",
+        "The woman is carrying a basket down the street in Nepal."
+      ],
+      "Mutated": [
+        "A woman in a bright pink and green skirt carries a large wicker basket on her back up a stone-cobbled street.",
+        "The woman is carrying a basket down the street in Switzerland ."
+      ],
+      "Confidence": [
+        0.0007331825909204781,
+        0.9968036413192749,
+        0.002463158220052719
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.0006772922934032977,
+        0.9970826506614685,
+        0.002240083646029234
+      ]
+    },
+    {
+      "Original": [
+        "A kid bored in a train with brown hair and his head lying down.",
+        "A child is riding the train from New York to Boston."
+      ],
+      "Mutated": [
+        "A kid bored in a train with brown hair and his head lying down.",
+        "A child is riding the train from West Grace to Greece ."
+      ],
+      "Confidence": [
+        0.0010733926901593804,
+        0.9977331161499023,
+        0.0011934356298297644
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.0012007708428427577,
+        0.9977413415908813,
+        0.0010578444926068187
+      ]
+    },
+    {
+      "Original": [
+        "You can see the bottom halves of three boys standing on a sidewalk with silly string sprayed everywhere",
+        "The sidewalk is in New York."
+      ],
+      "Mutated": [
+        "You can see the bottom halves of three boys standing on a sidewalk with silly string sprayed everywhere",
+        "The sidewalk is in South Richard ."
+      ],
+      "Confidence": [
+        0.0011104985605925322,
+        0.9976826906204224,
+        0.0012068361975252628
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.0016454256838187575,
+        0.9962823987007141,
+        0.0020721873734146357
+      ]
+    },
+    {
+      "Original": [
+        "Two people standing behind a Sonoma display and a woman with a stroller on the other side.",
+        "A woman has her daughter in a stroller."
+      ],
+      "Mutated": [
+        "Two people standing behind a Gregoryhaven display and a woman with a stroller on the other side .",
+        "A woman has her daughter in a stroller."
+      ],
+      "Confidence": [
+        0.0003956758591812104,
+        0.9908751249313354,
+        0.008729172870516777
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.0004101449449080974,
+        0.9942572116851807,
+        0.0053326101042330265
+      ]
+    },
+    {
+      "Original": [
+        "A man in a white shirt speaks into a microphone as other men gather behind him at a public event.",
+        "The man speaking is the President of the United States."
+      ],
+      "Mutated": [
+        "A man in a white shirt speaks into a microphone as other men gather behind him at a public event.",
+        "The man speaking is the President of Tokelau ."
+      ],
+      "Confidence": [
+        0.0021131595131009817,
+        0.9969866871833801,
+        0.0009001961443573236
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.002051870571449399,
+        0.9971306920051575,
+        0.0008174407994374633
+      ]
+    },
+    {
+      "Original": [
+        "People standing at street corner in France.",
+        "Some people are taking a tour of the factory."
+      ],
+      "Mutated": [
+        "People standing at street corner in Malawi .",
+        "Some people are taking a tour of the factory."
+      ],
+      "Confidence": [
+        0.24637994170188904,
+        0.7465686202049255,
+        0.007051405496895313
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.39149388670921326,
+        0.6009357571601868,
+        0.007570323068648577
+      ]
+    },
+    {
+      "Original": [
+        "While the players on the front lines of the football teams mingle, a kicker dressed in a white and yellow jersey kicks the football.",
+        "A kicker kicks off the game while the players mingle to surprise the other team."
+      ],
+      "Mutated": [
+        "While the players on the front lines of the football teams mingle , a kicker dressed in a white and New Rachelfurt kicks the football .",
+        "A kicker kicks off the game while the players mingle to surprise the other team."
+      ],
+      "Confidence": [
+        0.000985180027782917,
+        0.9977118968963623,
+        0.001302985823713243
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.0009545086650177836,
+        0.997698962688446,
+        0.0013465910451486707
+      ]
+    },
+    {
+      "Original": [
+        "a group of skiers jumping down slopes with the sun directly cast in backgroud",
+        "The sun sets as a group of skiers finish a race."
+      ],
+      "Mutated": [
+        "a group of skiers jumping down slopes with the sun directly cast in Russellhaven",
+        "The sun sets as a group of skiers finish a race."
+      ],
+      "Confidence": [
+        0.37331292033195496,
+        0.5542831420898438,
+        0.07240398973226547
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.2511517405509949,
+        0.5343679785728455,
+        0.21448031067848206
+      ]
+    },
+    {
+      "Original": [
+        "A man wearing a black t-shirt that says \"Long Live the Dead\" pulls a shopping cart in the street near a NYC yellow taxi cab.",
+        "The man just got done shopping."
+      ],
+      "Mutated": [
+        "A man wearing a black t - shirt that says \" Long Live the Dead \" pulls a shopping cart in the street near a Congo, The Democratic Republic of the yellow taxi cab .",
+        "The man just got done shopping."
+      ],
+      "Confidence": [
+        0.0016963161760941148,
+        0.9972072243690491,
+        0.0010963542154058814
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.0012268414720892906,
+        0.9975764155387878,
+        0.0011967902537435293
+      ]
+    },
+    {
+      "Original": [
+        "A passenger wearing a life jacket prepares to take a picture of a whale very close to the boat.",
+        "A man is taking a picture of a school of whales in Hawaii."
+      ],
+      "Mutated": [
+        "A passenger wearing a life jacket prepares to take a picture of a whale very close to the boat.",
+        "A man is taking a picture of a school of whales in Martinezfort ."
+      ],
+      "Confidence": [
+        0.003159104147925973,
+        0.989163875579834,
+        0.00767706660553813
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.02979240193963051,
+        0.9293123483657837,
+        0.04089521989226341
+      ]
+    },
+    {
+      "Original": [
+        "Two girls, one with dark hair, wearing glasses and red pants, the other with a blue shirt and jeans with blond-hair talking and walking down a sidewalk.",
+        "Two girls are walking through New York City."
+      ],
+      "Mutated": [
+        "Two girls, one with dark hair, wearing glasses and red pants, the other with a blue shirt and jeans with blond-hair talking and walking down a sidewalk.",
+        "Two girls are walking through Blackstad ."
+      ],
+      "Confidence": [
+        0.0006997345481067896,
+        0.9976563453674316,
+        0.001643857336603105
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.0011534240329638124,
+        0.9975348711013794,
+        0.001311580534093082
+      ]
+    },
+    {
+      "Original": [
+        "People wearing sombreros drink shots happily.",
+        "People enjoying the festivities in Cancun."
+      ],
+      "Mutated": [
+        "People wearing sombreros drink shots happily.",
+        "People enjoying the festivities in Algeria ."
+      ],
+      "Confidence": [
+        0.000884415814653039,
+        0.9922814965248108,
+        0.006833998020738363
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.0022002921905368567,
+        0.9783037304878235,
+        0.019495921209454536
+      ]
+    },
+    {
+      "Original": [
+        "A balding, heavyset man and a dog are resting beside an ornate monument featuring a greenish statue of a man and a woman.",
+        "The man is visiting Gettysburg National Cemetary in Gettysburg PA with his family."
+      ],
+      "Mutated": [
+        "A balding, heavyset man and a dog are resting beside an ornate monument featuring a greenish statue of a man and a woman.",
+        "The man is visiting Gettysburg National Cemetary in Gutierrezshire Christianmouth with his family ."
+      ],
+      "Confidence": [
+        0.001443082350306213,
+        0.9975956082344055,
+        0.0009612616267986596
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.00186479976400733,
+        0.9973005652427673,
+        0.0008347097900696099
+      ]
+    },
+    {
+      "Original": [
+        "A group of travelers pulling suitcases are making their way down a platform.",
+        "A group of friends are travelling to Hawaii."
+      ],
+      "Mutated": [
+        "A group of travelers pulling suitcases are making their way down a platform.",
+        "A group of friends are travelling to El Salvador ."
+      ],
+      "Confidence": [
+        0.0018347969744354486,
+        0.9971818923950195,
+        0.0009832711657509208
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.0019886703230440617,
+        0.9969378709793091,
+        0.0010735574178397655
+      ]
+    },
+    {
+      "Original": [
+        "A girl with a blue shirt and a girl with a striped shirt stand next to a girl with a green shirt sitting in a chair.",
+        "The three girls are arm wrestling in China town."
+      ],
+      "Mutated": [
+        "A girl with a blue shirt and a girl with a striped shirt stand next to a girl with a green shirt sitting in a chair.",
+        "The three girls are arm wrestling in Tokelau town ."
+      ],
+      "Confidence": [
+        0.14265097677707672,
+        0.8555604219436646,
+        0.0017885627457872033
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.15891242027282715,
+        0.8393089175224304,
+        0.0017786994576454163
+      ]
+    },
+    {
+      "Original": [
+        "A group of people wait to cross the street in new york",
+        "Some of the people are wearing sunglasses."
+      ],
+      "Mutated": [
+        "A group of people wait to cross the street in South Amberland",
+        "Some of the people are wearing sunglasses."
+      ],
+      "Confidence": [
+        0.0009484855108894408,
+        0.9976963400840759,
+        0.0013551191659644246
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.0009815868688747287,
+        0.9977061748504639,
+        0.0013122687814757228
+      ]
+    },
+    {
+      "Original": [
+        "Two gondola operators sit along a road in Italy.",
+        "The gondola operators are taking a work break."
+      ],
+      "Mutated": [
+        "Two gondola operators sit along a road in Lefurt .",
+        "The gondola operators are taking a work break."
+      ],
+      "Confidence": [
+        0.0013378032017499208,
+        0.9974640607833862,
+        0.0011981627903878689
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.0012775418581441045,
+        0.9975121021270752,
+        0.0012102845357730985
+      ]
+    },
+    {
+      "Original": [
+        "Two gondola operators sit along a road in Italy.",
+        "The gondola operators are in uniform."
+      ],
+      "Mutated": [
+        "Two gondola operators sit along a road in Austria .",
+        "The gondola operators are in uniform."
+      ],
+      "Confidence": [
+        0.0012224193196743727,
+        0.9977192282676697,
+        0.0010583613766357303
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.0012167711975052953,
+        0.9977395534515381,
+        0.0010436405427753925
+      ]
+    }
+  ],
+  "ORG2": [
+    {
+      "Original": [
+        "Three boys in white shirts are walking behind an older model Ford car.",
+        "The boys are on the street"
+      ],
+      "Mutated": [
+        "Three boys in white shirts are walking behind an older model International Monetary Fund car .",
+        "The boys are on the street"
+      ],
+      "Confidence": [
+        0.02251468226313591,
+        0.49257248640060425,
+        0.48491281270980835
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.052163928747177124,
+        0.49067074060440063,
+        0.457165390253067
+      ]
+    },
+    {
+      "Original": [
+        "a boy holding onto the wall of an old brick house's raised foundation.",
+        "a boy holding onto the wall of an old brick house's raised foundation as construction occurs"
+      ],
+      "Mutated": [
+        "a boy holding onto the wall of an old brick NASA (National Aeronautics and Space Administration) 's raised foundation .",
+        "a boy holding onto the wall of an old brick house's raised foundation as construction occurs"
+      ],
+      "Confidence": [
+        0.0008986831526271999,
+        0.9943248629570007,
+        0.004776399582624435
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.15459825098514557,
+        0.740022599697113,
+        0.10537915676832199
+      ]
+    },
+    {
+      "Original": [
+        "a boy holding onto the wall of an old brick house's raised foundation.",
+        "a boy holding onto the wall of an old brick house's raised foundation as construction occurs"
+      ],
+      "Mutated": [
+        "a boy holding onto the wall of an old brick house's raised foundation.",
+        "a boy holding onto the wall of an old brick Central Intelligence Agency (CIA) 's raised foundation as construction occurs"
+      ],
+      "Confidence": [
+        0.0008986831526271999,
+        0.9943248629570007,
+        0.004776399582624435
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.09861205518245697,
+        0.8883301019668579,
+        0.013057755306363106
+      ]
+    },
+    {
+      "Original": [
+        "A basketball player with green shoes is dunking the ball in the net while the arena crowd looks on.",
+        "A famous NBA player is playing street ball in front of a crowd."
+      ],
+      "Mutated": [
+        "A basketball player with green shoes is dunking the ball in the net while the arena crowd looks on.",
+        "A famous North Atlantic Treaty Organization player is playing street ball in front of a crowd ."
+      ],
+      "Confidence": [
+        0.02059365063905716,
+        0.9218614101409912,
+        0.05754486843943596
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.024476874619722366,
+        0.9271367192268372,
+        0.04838646575808525
+      ]
+    },
+    {
+      "Original": [
+        "Blond woman overlooking Seattle Space Needle scene.",
+        "A tourist checking out Seattle."
+      ],
+      "Mutated": [
+        "Blond woman overlooking International Monetary Fund scene .",
+        "A tourist checking out Seattle."
+      ],
+      "Confidence": [
+        0.0029625343158841133,
+        0.7099807262420654,
+        0.2870567739009857
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.3909069001674652,
+        0.5391903519630432,
+        0.06990267336368561
+      ]
+    },
+    {
+      "Original": [
+        "A Skier ski-jumping while two other skiers watch his act.",
+        "A skier teaching others a trick"
+      ],
+      "Mutated": [
+        "A Sony Corporation ski - jumping while two other skiers watch his act .",
+        "A skier teaching others a trick"
+      ],
+      "Confidence": [
+        0.006863766815513372,
+        0.7633575797080994,
+        0.22977867722511292
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.0083151925355196,
+        0.5759705305099487,
+        0.41571423411369324
+      ]
+    },
+    {
+      "Original": [
+        "A man is walking past a large sign that says E.S.E. Electronics.",
+        "The man works at E.S.E Electronics."
+      ],
+      "Mutated": [
+        "A man is walking past a large sign that says Amnesty International .",
+        "The man works at E.S.E Electronics."
+      ],
+      "Confidence": [
+        0.007348727900534868,
+        0.9913619160652161,
+        0.0012893187813460827
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.4250447452068329,
+        0.5728746056556702,
+        0.0020806367974728346
+      ]
+    },
+    {
+      "Original": [
+        "A man is walking past a large sign that says E.S.E. Electronics.",
+        "The man works at E.S.E Electronics."
+      ],
+      "Mutated": [
+        "A man is walking past a large sign that says E.S.E. Electronics.",
+        "The man works at Sony Corporation ."
+      ],
+      "Confidence": [
+        0.007348727900534868,
+        0.9913619160652161,
+        0.0012893187813460827
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.06802324950695038,
+        0.9285755753517151,
+        0.003401148831471801
+      ]
+    },
+    {
+      "Original": [
+        "A Lady in a Green and Black Jacket, and Blue pants, taking a Photos of a Horse.",
+        "The photographer is being paid to photograph wild stallions."
+      ],
+      "Mutated": [
+        "A Lady in a Green and Black Jacket , and Sony Corporation pants , taking a Photos of a Horse .",
+        "The photographer is being paid to photograph wild stallions."
+      ],
+      "Confidence": [
+        0.0012882372830063105,
+        0.9976723790168762,
+        0.0010393991833552718
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.0010772790992632508,
+        0.9977928400039673,
+        0.0011299018515273929
+      ]
+    },
+    {
+      "Original": [
+        "A woman is standing near three stores, two have beautiful artwork and the other store has Largo written on it.",
+        "A woman standing on a street corner outside beside three different stores, two of which contain beautiful artwork and one with a Largo sign."
+      ],
+      "Mutated": [
+        "A woman is standing near three stores, two have beautiful artwork and the other store has Largo written on it.",
+        "A woman standing on a street corner outside beside three different stores , two of which contain beautiful artwork and one with a University of Sydney sign ."
+      ],
+      "Confidence": [
+        0.0009810125920921564,
+        0.9128033518791199,
+        0.08621573448181152
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.0013585605192929506,
+        0.9898326396942139,
+        0.008808816783130169
+      ]
+    },
+    {
+      "Original": [
+        "Players from two opposing teams wearing colorful cleats struggle to gain control over a ball on an AstroTurf field.",
+        "The players are playing a sport."
+      ],
+      "Mutated": [
+        "Players from two opposing teams wearing colorful cleats struggle to gain control over a ball on an Smithsonian Institution field .",
+        "The players are playing a sport."
+      ],
+      "Confidence": [
+        0.001569905667565763,
+        0.7471039295196533,
+        0.25132614374160767
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.0014567330945283175,
+        0.8218201398849487,
+        0.1767231822013855
+      ]
+    },
+    {
+      "Original": [
+        "Players from two opposing teams wearing colorful cleats struggle to gain control over a ball on an AstroTurf field.",
+        "The players are having a party."
+      ],
+      "Mutated": [
+        "Players from two opposing teams wearing colorful cleats struggle to gain control over a ball on an North Atlantic Treaty Organization field .",
+        "The players are having a party."
+      ],
+      "Confidence": [
+        0.14682359993457794,
+        0.8501755595207214,
+        0.003000878496095538
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.41970187425613403,
+        0.5767572522163391,
+        0.003540854435414076
+      ]
+    },
+    {
+      "Original": [
+        "A man in a black business suit stands upright next to a man wearing blue and leaning against a railing.",
+        "The man in blue is Batman and the man in black is Jonny Cash."
+      ],
+      "Mutated": [
+        "A man in a black business suit stands upright next to a man wearing blue and leaning against a railing.",
+        "The man in blue is PepsiCo and the man in black is Jonny Cash ."
+      ],
+      "Confidence": [
+        0.008028748445212841,
+        0.9912262558937073,
+        0.0007449824479408562
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.005031395237892866,
+        0.9943313598632812,
+        0.0006372711504809558
+      ]
+    },
+    {
+      "Original": [
+        "Some men in burgundy coats try to push a car in the snow.",
+        "These men pushing the car off a cliff is from a scene in the movie Fargo."
+      ],
+      "Mutated": [
+        "Some men in burgundy coats try to push a car in the snow.",
+        "These men pushing the car off a cliff is from a scene in the movie Woods Hole Oceanographic Institution ."
+      ],
+      "Confidence": [
+        0.19074329733848572,
+        0.8072013258934021,
+        0.0020554140210151672
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.4562411308288574,
+        0.5409516096115112,
+        0.002807198790833354
+      ]
+    },
+    {
+      "Original": [
+        "A game of rugby in which 2 players are attempting to stop there opponent from catching a ball in midair.",
+        "The players are playing rugby in a championship game."
+      ],
+      "Mutated": [
+        "A game of rugby in which 2 players are attempting to stop there opponent from catching a ball in Microsoft Corporation .",
+        "The players are playing rugby in a championship game."
+      ],
+      "Confidence": [
+        0.0008544909651391208,
+        0.9977772831916809,
+        0.0013681662967428565
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.00105464446824044,
+        0.9974557757377625,
+        0.0014895625645294785
+      ]
+    },
+    {
+      "Original": [
+        "A man looks at an iPad on a subway, while a beautiful women reads a book.",
+        "The man with the ipad is older than the woman reading the book."
+      ],
+      "Mutated": [
+        "A man looks at an Greenpeace on a subway , while a beautiful women reads a book .",
+        "The man with the ipad is older than the woman reading the book."
+      ],
+      "Confidence": [
+        0.0013490768615156412,
+        0.9973568916320801,
+        0.0012940458254888654
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.0013195696519687772,
+        0.9974494576454163,
+        0.0012308883015066385
+      ]
+    },
+    {
+      "Original": [
+        "A man looks at an iPad on a subway, while a beautiful women reads a book.",
+        "The man with the ipad is older than the woman reading the book."
+      ],
+      "Mutated": [
+        "A man looks at an iPad on a subway, while a beautiful women reads a book.",
+        "The man with the International Monetary Fund is older than the woman reading the book ."
+      ],
+      "Confidence": [
+        0.0013490768615156412,
+        0.9973568916320801,
+        0.0012940458254888654
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.00229134364053607,
+        0.996933102607727,
+        0.0007756000268273056
+      ]
+    },
+    {
+      "Original": [
+        "Two hockey players on opposing teams, one in a red and white jersey and one in a blue and black jersey, are standing on the rink.",
+        "Two opponents are getting ready to face off in a Hockey game."
+      ],
+      "Mutated": [
+        "Two hockey players on opposing teams , one in a red and NASA (National Aeronautics and Space Administration) and one in a blue and black jersey , are standing on the rink .",
+        "Two opponents are getting ready to face off in a Hockey game."
+      ],
+      "Confidence": [
+        0.0017851614393293858,
+        0.7090545892715454,
+        0.28916019201278687
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.0017606224864721298,
+        0.5177986025810242,
+        0.48044073581695557
+      ]
+    },
+    {
+      "Original": [
+        "Two hockey players on opposing teams, one in a red and white jersey and one in a blue and black jersey, are standing on the rink.",
+        "Two opponents are getting ready to face off in a Hockey game."
+      ],
+      "Mutated": [
+        "Two hockey players on opposing teams, one in a red and white jersey and one in a blue and black jersey, are standing on the rink.",
+        "Two opponents are getting ready to face off in a Samsung Electronics game ."
+      ],
+      "Confidence": [
+        0.0017851614393293858,
+        0.7090545892715454,
+        0.28916019201278687
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.009489316493272781,
+        0.9844651818275452,
+        0.006045597605407238
+      ]
+    },
+    {
+      "Original": [
+        "A BMX rider is in midair while on a dirt trail.",
+        "The BMX rider is getting dirt on his clothes."
+      ],
+      "Mutated": [
+        "A Environmental Protection Agency (EPA) rider is in midair while on a dirt trail .",
+        "The BMX rider is getting dirt on his clothes."
+      ],
+      "Confidence": [
+        0.0008120313286781311,
+        0.9857999086380005,
+        0.013388074934482574
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.09200144559144974,
+        0.9051191210746765,
+        0.0028793730307370424
+      ]
+    },
+    {
+      "Original": [
+        "A BMX rider is in midair while on a dirt trail.",
+        "The BMX rider is getting dirt on his clothes."
+      ],
+      "Mutated": [
+        "A BMX rider is in midair while on a dirt trail.",
+        "The University of Sydney rider is getting dirt on his clothes ."
+      ],
+      "Confidence": [
+        0.0008120313286781311,
+        0.9857999086380005,
+        0.013388074934482574
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.0012895718682557344,
+        0.9971500039100647,
+        0.0015604364452883601
+      ]
+    },
+    {
+      "Original": [
+        "A man in an orange turban is standing in front of a basket containing a pack of marlboro reds and other small objects.",
+        "A man standing with his purchases of the day."
+      ],
+      "Mutated": [
+        "A man in an orange turban is standing in front of a basket containing a pack of Salk Institute for Biological Studies reds and other small objects .",
+        "A man standing with his purchases of the day."
+      ],
+      "Confidence": [
+        0.0018790102330967784,
+        0.6881430745124817,
+        0.30997782945632935
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.002018274273723364,
+        0.7682812809944153,
+        0.2297004610300064
+      ]
+    },
+    {
+      "Original": [
+        "A brown-haired lady carries a reusable bag and holds a coffee in one hand and a cookie in the other.",
+        "A lady just exited Starbucks."
+      ],
+      "Mutated": [
+        "A brown-haired lady carries a reusable bag and holds a coffee in one hand and a cookie in the other.",
+        "A lady just exited University of Sydney ."
+      ],
+      "Confidence": [
+        0.0020980031695216894,
+        0.9968695044517517,
+        0.0010324950562790036
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.0026108073070645332,
+        0.9966867566108704,
+        0.0007024859078228474
+      ]
+    },
+    {
+      "Original": [
+        "A crowd of people is looking at something outside of a Gap store.",
+        "The crowd is all men"
+      ],
+      "Mutated": [
+        "A crowd of people is looking at something outside of a Princeton University store .",
+        "The crowd is all men"
+      ],
+      "Confidence": [
+        0.0021855796221643686,
+        0.9969837069511414,
+        0.0008307614480145276
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.003439470427110791,
+        0.9951565265655518,
+        0.0014040159294381738
+      ]
+    },
+    {
+      "Original": [
+        "A man wearing blue pants, a white helmet, and a green-striped shirt is shown on skis in midair, against a blue sky with a single puffy cloud.",
+        "The man is doing a trick on his skis."
+      ],
+      "Mutated": [
+        "A man wearing blue pants , a white helmet , and a green - striped shirt is shown on skis in Woods Hole Oceanographic Institution , against a blue sky with a single puffy cloud .",
+        "The man is doing a trick on his skis."
+      ],
+      "Confidence": [
+        0.0007592883193865418,
+        0.9973688125610352,
+        0.001871853368356824
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.0009778473759070039,
+        0.9977625608444214,
+        0.0012595925945788622
+      ]
+    },
+    {
+      "Original": [
+        "A group of people in front of some tan colored tents from the american Parkinsons disease association.",
+        "A group shows up to an event to support research on Parkinsons"
+      ],
+      "Mutated": [
+        "A group of people in front of some tan colored tents from the Global Health Initiative .",
+        "A group shows up to an event to support research on Parkinsons"
+      ],
+      "Confidence": [
+        0.000601985608227551,
+        0.9934957027435303,
+        0.005902236793190241
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.0012552107218652964,
+        0.99647057056427,
+        0.0022742263972759247
+      ]
+    },
+    {
+      "Original": [
+        "A group of people in front of some tan colored tents from the american Parkinsons disease association.",
+        "They show up to donate and support for the fight against the disease"
+      ],
+      "Mutated": [
+        "A group of people in front of some tan colored tents from the Huawei Technologies .",
+        "They show up to donate and support for the fight against the disease"
+      ],
+      "Confidence": [
+        0.0008286494994536042,
+        0.997734546661377,
+        0.0014368266565725207
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.0013558687642216682,
+        0.9971231818199158,
+        0.0015209118137136102
+      ]
+    },
+    {
+      "Original": [
+        "A boy wearing a shirt with the Simpsons character, Ralph Wiggum, plays a Nintendo DS with his sister.",
+        "A boy is playing a Nintendo DS with his sister who he loves."
+      ],
+      "Mutated": [
+        "A boy wearing a shirt with the Max Planck Society character , Ralph Wiggum , plays a Nintendo DS with his sister .",
+        "A boy is playing a Nintendo DS with his sister who he loves."
+      ],
+      "Confidence": [
+        0.0005648626247420907,
+        0.9971655011177063,
+        0.0022696645464748144
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.0006052148528397083,
+        0.9973402619361877,
+        0.0020545448642224073
+      ]
+    },
+    {
+      "Original": [
+        "A yellow race car sliding through a corner as spectators watch.",
+        "A Nascar is being watched."
+      ],
+      "Mutated": [
+        "A yellow race car sliding through a corner as spectators watch.",
+        "A Toyota Motor Corporation is being watched ."
+      ],
+      "Confidence": [
+        0.0032657727133482695,
+        0.970103919506073,
+        0.02663019672036171
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.002387162297964096,
+        0.9877651333808899,
+        0.009847716428339481
+      ]
+    },
+    {
+      "Original": [
+        "Children at daycare playing on rings, and poles, one parent standing and holding her child and one teacher is sitting on the bench watching the others play.",
+        "Children are enjoying their time at the park on a field trip."
+      ],
+      "Mutated": [
+        "Children at Tsinghua University playing on rings , and poles , one parent standing and holding her child and one teacher is sitting on the bench watching the others play .",
+        "Children are enjoying their time at the park on a field trip."
+      ],
+      "Confidence": [
+        0.0014612387167289853,
+        0.994131863117218,
+        0.004406922962516546
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.004385818261653185,
+        0.9906710386276245,
+        0.004943154752254486
+      ]
+    },
+    {
+      "Original": [
+        "Children at daycare playing on rings, and poles, one parent standing and holding her child and one teacher is sitting on the bench watching the others play.",
+        "Children are body slamming each other."
+      ],
+      "Mutated": [
+        "Children at International Red Cross playing on rings , and poles , one parent standing and holding her child and one teacher is sitting on the bench watching the others play .",
+        "Children are body slamming each other."
+      ],
+      "Confidence": [
+        0.046833962202072144,
+        0.9472850561141968,
+        0.005881060846149921
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.07317804545164108,
+        0.9209784865379333,
+        0.00584352808073163
+      ]
+    },
+    {
+      "Original": [
+        "A local street in an Arabic country where there is a market selling Coca-Cola.",
+        "A crowded street where people are buying soft drinks and other items."
+      ],
+      "Mutated": [
+        "A local street in an Arabic country where there is a market selling PepsiCo .",
+        "A crowded street where people are buying soft drinks and other items."
+      ],
+      "Confidence": [
+        0.00041452646837569773,
+        0.9927576780319214,
+        0.00682770274579525
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.0004349970258772373,
+        0.9932110905647278,
+        0.006353913806378841
+      ]
+    },
+    {
+      "Original": [
+        "Several people browse through books at a store with a tile floor.",
+        "There are a lot of people looking for a certain book at the local Barnes and Noble."
+      ],
+      "Mutated": [
+        "Several people browse through books at a store with a tile floor.",
+        "There are a lot of people looking for a certain book at the local Woods Hole Oceanographic Institution and Noble ."
+      ],
+      "Confidence": [
+        0.0009420820861123502,
+        0.9969344139099121,
+        0.0021234864834696054
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.0027889704797416925,
+        0.9959818124771118,
+        0.001229172688908875
+      ]
+    },
+    {
+      "Original": [
+        "Everyone is getting ready to play the game.",
+        "People place their piece on a Monopoly board."
+      ],
+      "Mutated": [
+        "Everyone is getting ready to play the game.",
+        "People place their piece on a University of Oxford board ."
+      ],
+      "Confidence": [
+        0.0009425272583030164,
+        0.9947997331619263,
+        0.004257699009031057
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.001089741475880146,
+        0.9972668886184692,
+        0.0016434805002063513
+      ]
+    },
+    {
+      "Original": [
+        "An Eastern vendor sits by his stall with a rooster nearby.",
+        "a rooster near a vendor hoping for food"
+      ],
+      "Mutated": [
+        "An Max Planck Society vendor sits by his stall with a rooster nearby .",
+        "a rooster near a vendor hoping for food"
+      ],
+      "Confidence": [
+        0.0008879242232069373,
+        0.9778640866279602,
+        0.021247971802949905
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.0015289681032299995,
+        0.971484899520874,
+        0.026986120268702507
+      ]
+    },
+    {
+      "Original": [
+        "An Eastern vendor sits by his stall with a rooster nearby.",
+        "a rooster on the farm"
+      ],
+      "Mutated": [
+        "An Amazon.com Inc. vendor sits by his stall with a rooster nearby .",
+        "a rooster on the farm"
+      ],
+      "Confidence": [
+        0.030383409932255745,
+        0.6060311198234558,
+        0.363585501909256
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.011958041228353977,
+        0.5092296600341797,
+        0.4788123667240143
+      ]
+    },
+    {
+      "Original": [
+        "A man on a bike, with the sun beating down in the background, just launched off of a dirt ramp and is coming back down.",
+        "Cyclists competing in the Tour de France."
+      ],
+      "Mutated": [
+        "A man on a bike, with the sun beating down in the background, just launched off of a dirt ramp and is coming back down.",
+        "Cyclists competing in National University of Singapore ."
+      ],
+      "Confidence": [
+        0.016463207080960274,
+        0.9770695567131042,
+        0.006467356812208891
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.02230200357735157,
+        0.9601067304611206,
+        0.0175913255661726
+      ]
+    },
+    {
+      "Original": [
+        "A man with his finger in his mouth is standing outside of an RV.",
+        "The man owns the RV."
+      ],
+      "Mutated": [
+        "A man with his finger in his mouth is standing outside of an RV.",
+        "The man owns the Chinese Academy of Sciences ."
+      ],
+      "Confidence": [
+        0.02287660539150238,
+        0.9745616912841797,
+        0.0025616856291890144
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.2986793518066406,
+        0.6989547610282898,
+        0.0023658922873437405
+      ]
+    },
+    {
+      "Original": [
+        "3 cyclists are racing ahead of a red BMW, with the leader wearing solid white helmet and black cycling pants",
+        "Cyclists are in a race on the part of the course that is on the highway."
+      ],
+      "Mutated": [
+        "3 cyclists are racing ahead of a red Amnesty International , with the leader wearing solid white helmet and black cycling pants",
+        "Cyclists are in a race on the part of the course that is on the highway."
+      ],
+      "Confidence": [
+        0.003634456545114517,
+        0.9633396863937378,
+        0.0330258347094059
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.006019550375640392,
+        0.9834024906158447,
+        0.010577987879514694
+      ]
+    },
+    {
+      "Original": [
+        "A chef explains different varieties of Tomatoes to consumers.",
+        "He knows a lot about tomatos."
+      ],
+      "Mutated": [
+        "A chef explains different varieties of Columbia University to consumers .",
+        "He knows a lot about tomatos."
+      ],
+      "Confidence": [
+        0.0014619872672483325,
+        0.859994649887085,
+        0.13854335248470306
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.06416729092597961,
+        0.9255359172821045,
+        0.010296822525560856
+      ]
+    },
+    {
+      "Original": [
+        "A chef explains different varieties of Tomatoes to consumers.",
+        "He likes to cook."
+      ],
+      "Mutated": [
+        "A chef explains different varieties of Amazon.com Inc. to consumers .",
+        "He likes to cook."
+      ],
+      "Confidence": [
+        0.002173913409933448,
+        0.9342581033706665,
+        0.06356804072856903
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.001691255485638976,
+        0.7972877621650696,
+        0.20102104544639587
+      ]
+    },
+    {
+      "Original": [
+        "this Man, with a Red& White Shirt has Water Bottles on this White Truck.",
+        "the guy has bottles on the truck for me"
+      ],
+      "Mutated": [
+        "this Man , with a Amazon.com Inc. has Water Bottles on this White Truck .",
+        "the guy has bottles on the truck for me"
+      ],
+      "Confidence": [
+        0.0009343737619929016,
+        0.9892653226852417,
+        0.009800247848033905
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.0024777811486274004,
+        0.9415841698646545,
+        0.05593802034854889
+      ]
+    },
+    {
+      "Original": [
+        "A crowd in which two men are wearing Santa Claus Hats are celebrating Christmas outside of a Bank of America and a Christmas tree.",
+        "Many people are singing carols."
+      ],
+      "Mutated": [
+        "A crowd in which two men are wearing Amazon.com Inc. are celebrating Christmas outside of a Coca-Cola Company and a Christmas tree .",
+        "Many people are singing carols."
+      ],
+      "Confidence": [
+        0.0005846420535817742,
+        0.9973472356796265,
+        0.002068133559077978
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.0006061703898012638,
+        0.997421383857727,
+        0.0019724247977137566
+      ]
+    },
+    {
+      "Original": [
+        "Guy in uniform standing on the side of a boat moving through the water.",
+        "A man in the Navy is sailing through the water."
+      ],
+      "Mutated": [
+        "Guy in uniform standing on the side of a boat moving through the water.",
+        "A man in the PepsiCo is sailing through the water ."
+      ],
+      "Confidence": [
+        0.009248302318155766,
+        0.8407600522041321,
+        0.14999167621135712
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.42335423827171326,
+        0.5560303926467896,
+        0.02061535231769085
+      ]
+    },
+    {
+      "Original": [
+        "A man who wears glasses, a blue shirt and a Chicago White Sox cap holds a young boy who also wears a blue shirt.",
+        "The man the baseball is taking his son to a baseball game today."
+      ],
+      "Mutated": [
+        "A man who wears glasses , a blue shirt and a Harvard University cap holds a young boy who also wears a blue shirt .",
+        "The man the baseball is taking his son to a baseball game today."
+      ],
+      "Confidence": [
+        0.00238616019487381,
+        0.9966561794281006,
+        0.0009576565935276449
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.004726184066385031,
+        0.9943559765815735,
+        0.0009177950560115278
+      ]
+    },
+    {
+      "Original": [
+        "A man in neon green Seahawks sweatshirt leans on a railing.",
+        "A man is scalping tickets to a Seahawks game."
+      ],
+      "Mutated": [
+        "A man in neon green Fraunhofer Society sweatshirt leans on a railing .",
+        "A man is scalping tickets to a Seahawks game."
+      ],
+      "Confidence": [
+        0.020701222121715546,
+        0.9762671589851379,
+        0.003031602595001459
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.033075544983148575,
+        0.9634698033332825,
+        0.003454635851085186
+      ]
+    },
+    {
+      "Original": [
+        "A man in neon green Seahawks sweatshirt leans on a railing.",
+        "A man is scalping tickets to a Seahawks game."
+      ],
+      "Mutated": [
+        "A man in neon green Seahawks sweatshirt leans on a railing.",
+        "A man is scalping tickets to a National Institutes of Health (NIH) game ."
+      ],
+      "Confidence": [
+        0.020701222121715546,
+        0.9762671589851379,
+        0.003031602595001459
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.23204904794692993,
+        0.763495147228241,
+        0.004455819260329008
+      ]
+    },
+    {
+      "Original": [
+        "We can see the white underwear of the man wearing the red soccer jersey because he is pulling up his shorts.",
+        "People are looking at sexy underwear."
+      ],
+      "Mutated": [
+        "We can see the white underwear of the man wearing United Nations Children's Fund because he is pulling up his shorts .",
+        "People are looking at sexy underwear."
+      ],
+      "Confidence": [
+        0.004649647045880556,
+        0.7807644605636597,
+        0.21458590030670166
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.004756818991154432,
+        0.7342661023139954,
+        0.26097702980041504
+      ]
+    },
+    {
+      "Original": [
+        "A man wearing and Army shirt is on the ground in a push-up position, while a man in uniform squats beside him.",
+        "The man is fat."
+      ],
+      "Mutated": [
+        "A man wearing and Princeton University shirt is on the ground in a push - up position , while a man in uniform squats beside him .",
+        "The man is fat."
+      ],
+      "Confidence": [
+        0.07983158528804779,
+        0.9177546501159668,
+        0.0024137990549206734
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.06601589173078537,
+        0.9316560626029968,
+        0.002328056376427412
+      ]
+    },
+    {
+      "Original": [
+        "A skateboarder does a trick in midair.",
+        "A skateboarder doing a kick flip midair."
+      ],
+      "Mutated": [
+        "A skateboarder does a trick in Columbia University .",
+        "A skateboarder doing a kick flip midair."
+      ],
+      "Confidence": [
+        0.002858807798475027,
+        0.9875137209892273,
+        0.00962742418050766
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.001442250213585794,
+        0.9959730505943298,
+        0.0025847102515399456
+      ]
+    },
+    {
+      "Original": [
+        "Two women are reading, one woman has a magazine with a Dior ad on the back of it, while the other woman is reading fro ma hard cover book.",
+        "Two women are in the library reading."
+      ],
+      "Mutated": [
+        "Two women are reading , one woman has a magazine with a University of Cambridge ad on the back of it , while the other woman is reading fro ma hard cover book .",
+        "Two women are in the library reading."
+      ],
+      "Confidence": [
+        0.0011042167898267508,
+        0.9977352619171143,
+        0.001160493935458362
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.0011251880787312984,
+        0.9977151155471802,
+        0.001159763429313898
+      ]
+    },
+    {
+      "Original": [
+        "A gray-haired man rides a bike in front of a bus advertising Ironman.",
+        "An older man rides his bike and is almost hit by a bus because he is looking at the Ironman poster."
+      ],
+      "Mutated": [
+        "A gray - haired man rides a bike in front of a bus advertising HM Revenue & Customs .",
+        "An older man rides his bike and is almost hit by a bus because he is looking at the Ironman poster."
+      ],
+      "Confidence": [
+        0.0016663741553202271,
+        0.9801019430160522,
+        0.018231771886348724
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.21498705446720123,
+        0.7792114019393921,
+        0.005801565479487181
+      ]
+    },
+    {
+      "Original": [
+        "A woman in a burgundy coat exits Trader Joe's with a cart full of groceries.",
+        "a wife taking groceries home to her family"
+      ],
+      "Mutated": [
+        "A woman in a burgundy coat exits World Trade Organization with a cart full of groceries .",
+        "a wife taking groceries home to her family"
+      ],
+      "Confidence": [
+        0.000988796236924827,
+        0.9746308922767639,
+        0.024380240589380264
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.0012941568857058883,
+        0.9463862776756287,
+        0.052319593727588654
+      ]
+    },
+    {
+      "Original": [
+        "Several cartoon characters are behind a young girl sitting in a highchair with a bucket and SpongeBob in front of her.",
+        "One of the cartoon character is upset."
+      ],
+      "Mutated": [
+        "Several cartoon characters are behind a young girl sitting in a highchair with a bucket and Toyota Motor Corporation in front of her .",
+        "One of the cartoon character is upset."
+      ],
+      "Confidence": [
+        0.0014989296905696392,
+        0.9974656105041504,
+        0.0010354324476793408
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.0012356271035969257,
+        0.9976418018341064,
+        0.0011226065689697862
+      ]
+    },
+    {
+      "Original": [
+        "A crowd of people fill the street in front of a McDonald's.",
+        "The people are hungry."
+      ],
+      "Mutated": [
+        "A crowd of people fill the street in front of a Central Intelligence Agency (CIA) 's .",
+        "The people are hungry."
+      ],
+      "Confidence": [
+        0.0011634016409516335,
+        0.9977424144744873,
+        0.001094246399588883
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.0026775167789310217,
+        0.9965806603431702,
+        0.0007418218301609159
+      ]
+    },
+    {
+      "Original": [
+        "A crowd of people fill the street in front of a McDonald's.",
+        "The crowd is playing hockey."
+      ],
+      "Mutated": [
+        "A crowd of people fill the street in front of a World Education Association 's .",
+        "The crowd is playing hockey."
+      ],
+      "Confidence": [
+        0.004719235468655825,
+        0.994628369808197,
+        0.0006523687625303864
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.004472107160836458,
+        0.9948765635490417,
+        0.0006513996049761772
+      ]
+    },
+    {
+      "Original": [
+        "These people are in uniform at a lacrosse type game.",
+        "Lacrosse players are waiting for the game to start."
+      ],
+      "Mutated": [
+        "These people are in uniform at a lacrosse type game.",
+        "Microsoft Corporation players are waiting for the game to start ."
+      ],
+      "Confidence": [
+        0.021712159737944603,
+        0.9253563284873962,
+        0.05293146148324013
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.30662205815315247,
+        0.6876895427703857,
+        0.00568847032263875
+      ]
+    },
+    {
+      "Original": [
+        "A small group of people wait to board an MTA bus.",
+        "A small group of people wait to board a bus on a city street."
+      ],
+      "Mutated": [
+        "A small group of people wait to board an United Nations Children's Fund bus .",
+        "A small group of people wait to board a bus on a city street."
+      ],
+      "Confidence": [
+        0.0004672004724852741,
+        0.9949185252189636,
+        0.004614290315657854
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.0006787539459764957,
+        0.9972680807113647,
+        0.002053226809948683
+      ]
+    },
+    {
+      "Original": [
+        "A person in an orange jacket getting out of the rear of a Toyota SUV, parked in front of a view of the ocean and mountains.",
+        "The person is driving the SUV."
+      ],
+      "Mutated": [
+        "A person in an orange jacket getting out of the rear of a Bruce, Morton and Fernandez SUV , parked in front of a view of the ocean and mountains .",
+        "The person is driving the SUV."
+      ],
+      "Confidence": [
+        0.3424499034881592,
+        0.605457067489624,
+        0.0520930252969265
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.47740882635116577,
+        0.48556604981422424,
+        0.03702515363693237
+      ]
+    },
+    {
+      "Original": [
+        "A person in an orange jacket getting out of the rear of a Toyota SUV, parked in front of a view of the ocean and mountains.",
+        "The person is about to go hiking."
+      ],
+      "Mutated": [
+        "A person in an orange jacket getting out of the rear of a University of Oxford SUV , parked in front of a view of the ocean and mountains .",
+        "The person is about to go hiking."
+      ],
+      "Confidence": [
+        0.001583457225933671,
+        0.997474730014801,
+        0.0009417256223969162
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.0014198024291545153,
+        0.9976173043251038,
+        0.0009628248517401516
+      ]
+    },
+    {
+      "Original": [
+        "Two cars are being driven in a car race.",
+        "A Bugatti and a Lambourgini compete in a road race."
+      ],
+      "Mutated": [
+        "Two cars are being driven in a car race.",
+        "A Adidas AG and a Lambourgini compete in a road race ."
+      ],
+      "Confidence": [
+        0.0011070085456594825,
+        0.9940452575683594,
+        0.004847676493227482
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.0025602413807064295,
+        0.9898395538330078,
+        0.0076002092100679874
+      ]
+    },
+    {
+      "Original": [
+        "Navy men stand along a red carpet and salute as their superior walks by.",
+        "Some men are saluting their superior out of respect."
+      ],
+      "Mutated": [
+        "Fraunhofer Society men stand along a red carpet and salute as their superior walks by .",
+        "Some men are saluting their superior out of respect."
+      ],
+      "Confidence": [
+        0.0004405073414091021,
+        0.9914332628250122,
+        0.008126286789774895
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.0004371404938865453,
+        0.9920710921287537,
+        0.0074918451718986034
+      ]
+    },
+    {
+      "Original": [
+        "Navy men stand along a red carpet and salute as their superior walks by.",
+        "Some men are waving hello and speaking to their superior."
+      ],
+      "Mutated": [
+        "National University of Singapore men stand along a red carpet and salute as their superior walks by .",
+        "Some men are waving hello and speaking to their superior."
+      ],
+      "Confidence": [
+        0.020356392487883568,
+        0.9650960564613342,
+        0.014547479338943958
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.022465968504548073,
+        0.9707696437835693,
+        0.006764391902834177
+      ]
+    },
+    {
+      "Original": [
+        "A man holding a pink cooler is talking to an older woman.",
+        "A woman drinks from a mason jar."
+      ],
+      "Mutated": [
+        "A man holding a pink cooler is talking to an older woman.",
+        "A woman drinks from a University of Sydney ."
+      ],
+      "Confidence": [
+        0.19618751108646393,
+        0.7981404662132263,
+        0.005671971943229437
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.07434185594320297,
+        0.9055737853050232,
+        0.02008436992764473
+      ]
+    },
+    {
+      "Original": [
+        "It looks like the clown has fallen off the horse.",
+        "The sad clown fell off the horse at the State Fair rodeo."
+      ],
+      "Mutated": [
+        "It looks like the clown has fallen off the horse.",
+        "The sad clown fell off the horse at the University of Sydney rodeo ."
+      ],
+      "Confidence": [
+        0.0012131270486861467,
+        0.9974954128265381,
+        0.0012915364932268858
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.0011627720668911934,
+        0.9975825548171997,
+        0.0012546309735625982
+      ]
+    },
+    {
+      "Original": [
+        "The blond girl is opening her drink as she speaks to the person with her.",
+        "A girl is opening a Diet Coke while talking to her boyfriend."
+      ],
+      "Mutated": [
+        "The blond girl is opening her drink as she speaks to the person with her.",
+        "A girl is opening a Max Planck Society Coke while talking to her boyfriend ."
+      ],
+      "Confidence": [
+        0.0012666498078033328,
+        0.9976269602775574,
+        0.001106355688534677
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.0012756554642692208,
+        0.9976995587348938,
+        0.0010246954625472426
+      ]
+    },
+    {
+      "Original": [
+        "Two NHL hockey players prepare to fight over a puck during a face off.",
+        "The players start a fight to continue a previous disagreement."
+      ],
+      "Mutated": [
+        "Two Massachusetts Institute of Technology (MIT) hockey players prepare to fight over a puck during a face off .",
+        "The players start a fight to continue a previous disagreement."
+      ],
+      "Confidence": [
+        0.005345884244889021,
+        0.9670868515968323,
+        0.02756725437939167
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.004359095357358456,
+        0.9835643768310547,
+        0.012076480314135551
+      ]
+    },
+    {
+      "Original": [
+        "Two NHL hockey players prepare to fight over a puck during a face off.",
+        "The players vigarously compete in their game."
+      ],
+      "Mutated": [
+        "Two Environmental Protection Agency (EPA) hockey players prepare to fight over a puck during a face off .",
+        "The players vigarously compete in their game."
+      ],
+      "Confidence": [
+        0.007655577268451452,
+        0.5593675374984741,
+        0.4329768121242523
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.009817739948630333,
+        0.6548709869384766,
+        0.3353112041950226
+      ]
+    },
+    {
+      "Original": [
+        "A person with brown hair wearing a blue shirt and purple bandanna around their neck is chiseling a design into a round, brick pillar.",
+        "The brown haired person is a stone mason working on a reconstruction project."
+      ],
+      "Mutated": [
+        "A person with brown hair wearing a blue shirt and purple bandanna around their neck is chiseling a design into a round, brick pillar.",
+        "The brown haired person is a stone HM Revenue & Customs a reconstruction project ."
+      ],
+      "Confidence": [
+        0.0009796913946047425,
+        0.9977598190307617,
+        0.0012604158837348223
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.021397437900304794,
+        0.9754786491394043,
+        0.003123930189758539
+      ]
+    },
+    {
+      "Original": [
+        "A man with a latex glove and black t-shit is standing in front of a Chevy van.",
+        "a man standing in front of a van waiting for his victim"
+      ],
+      "Mutated": [
+        "A man with a latex glove and black t - shit is standing in front of a World Bank van .",
+        "a man standing in front of a van waiting for his victim"
+      ],
+      "Confidence": [
+        0.0007085503311827779,
+        0.9972203969955444,
+        0.002071124967187643
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.0024181038606911898,
+        0.9922020435333252,
+        0.005379843059927225
+      ]
+    },
+    {
+      "Original": [
+        "Two fans are cheering at a sporting event.",
+        "Two men are cheering on the New York Yankees."
+      ],
+      "Mutated": [
+        "Two fans are cheering at a sporting event.",
+        "Two men are cheering on University of Chicago ."
+      ],
+      "Confidence": [
+        0.0009093785774894059,
+        0.9977503418922424,
+        0.0013402645708993077
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.0009733004262670875,
+        0.9978042244911194,
+        0.0012223662342876196
+      ]
+    },
+    {
+      "Original": [
+        "GEntleman sketching on brown paper at Christmas.",
+        "The man sketched on paper for his girlfriend."
+      ],
+      "Mutated": [
+        "International Olympic Committee sketching on brown paper at Christmas .",
+        "The man sketched on paper for his girlfriend."
+      ],
+      "Confidence": [
+        0.0012155985459685326,
+        0.9972438812255859,
+        0.0015405842568725348
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.3960106074810028,
+        0.594480037689209,
+        0.009509362280368805
+      ]
+    },
+    {
+      "Original": [
+        "A man from one football team trying to dodge a tackle from a player from the opposing football team.",
+        "A man tries to tackle a player in a NFL game."
+      ],
+      "Mutated": [
+        "A man from one football team trying to dodge a tackle from a player from the opposing football team.",
+        "A man tries to tackle a player in a Imperial College London game ."
+      ],
+      "Confidence": [
+        0.17963412404060364,
+        0.817162036895752,
+        0.003203814383596182
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.4552801549434662,
+        0.5415175557136536,
+        0.003202262334525585
+      ]
+    },
+    {
+      "Original": [
+        "Young men drink coffee and read books just outside some buildings on a sunny day; an older bearded man in a dark blue shirt glances at a younger man in a striped shirt, who has a red toy crab on the table next to him.",
+        "The older bearded man is indeed Gandalf the Grey."
+      ],
+      "Mutated": [
+        "Young men drink coffee and read books just outside some buildings on a sunny day; an older bearded man in a dark blue shirt glances at a younger man in a striped shirt, who has a red toy crab on the table next to him.",
+        "The older bearded man is indeed Tsinghua University ."
+      ],
+      "Confidence": [
+        0.01816016249358654,
+        0.9806236624717712,
+        0.0012161053018644452
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.0071844980120658875,
+        0.9920627474784851,
+        0.0007527278503403068
+      ]
+    },
+    {
+      "Original": [
+        "Many women trying out and looking at laptops in a Walmart.",
+        "Women are shopping for Dell Computers."
+      ],
+      "Mutated": [
+        "Many women trying out and looking at laptops in a Woods Hole Oceanographic Institution .",
+        "Women are shopping for Dell Computers."
+      ],
+      "Confidence": [
+        0.0016652251360937953,
+        0.9972731471061707,
+        0.0010616884101182222
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.0011560696875676513,
+        0.9977741837501526,
+        0.0010697327088564634
+      ]
+    },
+    {
+      "Original": [
+        "Many women trying out and looking at laptops in a Walmart.",
+        "Women are shopping for Dell Computers."
+      ],
+      "Mutated": [
+        "Many women trying out and looking at laptops in a Walmart.",
+        "Women are shopping for Department of Defense ."
+      ],
+      "Confidence": [
+        0.0016652251360937953,
+        0.9972731471061707,
+        0.0010616884101182222
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.31561124324798584,
+        0.6740635633468628,
+        0.010325143113732338
+      ]
+    },
+    {
+      "Original": [
+        "Three people are making transactions at an automated teller machine.",
+        "Three women waiting for an ATM."
+      ],
+      "Mutated": [
+        "Three people are making transactions at an automated teller machine.",
+        "Three women waiting for an United Nations Children's Fund ."
+      ],
+      "Confidence": [
+        0.24471375346183777,
+        0.7170053720474243,
+        0.038280878216028214
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.47057369351387024,
+        0.509297251701355,
+        0.020129039883613586
+      ]
+    },
+    {
+      "Original": [
+        "A bearded man wears a roughly sewn hooded costume emblazoned with images of Spiderman.",
+        "A man dressing for a show"
+      ],
+      "Mutated": [
+        "A bearded man wears a roughly sewn hooded costume emblazoned with images of University of Sydney .",
+        "A man dressing for a show"
+      ],
+      "Confidence": [
+        0.0005178359569981694,
+        0.9924920201301575,
+        0.006990115623921156
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.0008316102321259677,
+        0.9844393134117126,
+        0.014729148708283901
+      ]
+    },
+    {
+      "Original": [
+        "A man with a red beard and mustache is smiling and wearing a hat crocheted with green yarn and Miller beer cans.",
+        "A man with a red beard and mustache is smiling and laughing."
+      ],
+      "Mutated": [
+        "A man with a red beard and mustache is smiling and wearing a hat crocheted with green yarn and University of Oxford beer cans .",
+        "A man with a red beard and mustache is smiling and laughing."
+      ],
+      "Confidence": [
+        0.0011539147235453129,
+        0.9735775589942932,
+        0.025268590077757835
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.0009109738748520613,
+        0.9871827363967896,
+        0.011906333267688751
+      ]
+    },
+    {
+      "Original": [
+        "A senior citizen wearing a hat, blue button up shirt, Khaki shorts and sandals walking in a park holding two ice cream cones.",
+        "The man is bringing the ice cream cone to another person."
+      ],
+      "Mutated": [
+        "A senior citizen wearing a hat , blue button up shirt , World Trade Organization shorts and sandals walking in a park holding two ice cream cones .",
+        "The man is bringing the ice cream cone to another person."
+      ],
+      "Confidence": [
+        0.002801847644150257,
+        0.9824831485748291,
+        0.014714944176375866
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.002364601008594036,
+        0.9870204925537109,
+        0.010614834725856781
+      ]
+    },
+    {
+      "Original": [
+        "A woman is holding a large check for Kids Food Basket.",
+        "She is fond of the charity."
+      ],
+      "Mutated": [
+        "A woman is holding a large check for World Education Association .",
+        "She is fond of the charity."
+      ],
+      "Confidence": [
+        0.000699527736287564,
+        0.9974989295005798,
+        0.0018015499226748943
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.0007483931258320808,
+        0.9976292252540588,
+        0.0016224398277699947
+      ]
+    },
+    {
+      "Original": [
+        "A male wearing a football uniform kicking a football during a football game.",
+        "A Dallas Cowboy player is trying to tie the playoff game."
+      ],
+      "Mutated": [
+        "A male wearing a football uniform kicking a football during a football game.",
+        "A Toyota Motor Corporation player is trying to tie the playoff game ."
+      ],
+      "Confidence": [
+        0.001073468942195177,
+        0.997787356376648,
+        0.00113912473898381
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.0024626811500638723,
+        0.9963601231575012,
+        0.0011771622812375426
+      ]
+    },
+    {
+      "Original": [
+        "Three men are using Washington Mutual ATMs outside near a parking lot.",
+        "A group of friends are getting some money before they go to dinner."
+      ],
+      "Mutated": [
+        "Three men are using ETH Zurich outside near a parking lot .",
+        "A group of friends are getting some money before they go to dinner."
+      ],
+      "Confidence": [
+        0.0007123313844203949,
+        0.9967208504676819,
+        0.0025668481830507517
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.0011893663322553039,
+        0.9950620532035828,
+        0.003748499322682619
+      ]
+    },
+    {
+      "Original": [
+        "A man wearing a brightly green camouflage patterned denim jacket and boots walks by a building labeled Lottery Ticket Centre.",
+        "A man just purchased some lottery tickets."
+      ],
+      "Mutated": [
+        "A man wearing a brightly green camouflage patterned denim jacket and boots walks by a building labeled Apple Inc. .",
+        "A man just purchased some lottery tickets."
+      ],
+      "Confidence": [
+        0.0017539068358018994,
+        0.9965969920158386,
+        0.0016490570269525051
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.037792231887578964,
+        0.9602501392364502,
+        0.0019575112964957952
+      ]
+    },
+    {
+      "Original": [
+        "Army men grilling a lot of meat while his troop looks on.",
+        "The men here will eat a lot of food soon."
+      ],
+      "Mutated": [
+        "Huawei Technologies men grilling a lot of meat while his troop looks on .",
+        "The men here will eat a lot of food soon."
+      ],
+      "Confidence": [
+        0.0013898522593080997,
+        0.9305949211120605,
+        0.06801524013280869
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.0016105030663311481,
+        0.9072140455245972,
+        0.0911753922700882
+      ]
+    },
+    {
+      "Original": [
+        "Red-haired female answers questions while sitting at a table for craftzine.",
+        "The PR rep fielded questions during the interview."
+      ],
+      "Mutated": [
+        "Red - haired female answers questions while sitting at a table for Nike Inc. .",
+        "The PR rep fielded questions during the interview."
+      ],
+      "Confidence": [
+        0.010094414465129375,
+        0.8965768814086914,
+        0.09332869201898575
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.0030570216476917267,
+        0.8875784873962402,
+        0.1093645840883255
+      ]
+    },
+    {
+      "Original": [
+        "Three people are sitting at a small table near a screen with the words, \"DEMOS, The Business of Care.\"",
+        "There are some people at a business meeting."
+      ],
+      "Mutated": [
+        "Three people are sitting at a small table near a screen with the words , \" DEMOS , University of Tokyo . \"",
+        "There are some people at a business meeting."
+      ],
+      "Confidence": [
+        0.0033790557645261288,
+        0.7908790111541748,
+        0.20574186742305756
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.04252994433045387,
+        0.9435579776763916,
+        0.013912046328186989
+      ]
+    },
+    {
+      "Original": [
+        "A Caucasian woman stands with her back to the camera while completing a transaction at an ATM machine.",
+        "The woman is withdrawing money."
+      ],
+      "Mutated": [
+        "A Caucasian woman stands with her back to the camera while completing a transaction at an Central Intelligence Agency (CIA) machine .",
+        "The woman is withdrawing money."
+      ],
+      "Confidence": [
+        0.0016458398895338178,
+        0.5811293721199036,
+        0.41722482442855835
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.0016507126856595278,
+        0.9421201944351196,
+        0.05622907355427742
+      ]
+    },
+    {
+      "Original": [
+        "By a table with several boxes and two coffee cups on it, a woman in a green sweater is opening a small box and another person (whose head cannot be seen) is operating a small handheld electronic device.",
+        "Members of congress opening care packages."
+      ],
+      "Mutated": [
+        "By a table with several boxes and two coffee cups on it, a woman in a green sweater is opening a small box and another person (whose head cannot be seen) is operating a small handheld electronic device.",
+        "Members of Stanford University opening care packages ."
+      ],
+      "Confidence": [
+        0.010163793340325356,
+        0.9873749017715454,
+        0.002461288822814822
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.005727808456867933,
+        0.992324709892273,
+        0.0019474433502182364
+      ]
+    },
+    {
+      "Original": [
+        "Two women are laughing and smiling while they eat a meal together.",
+        "Lilly and Sally were laughing while eating lunch."
+      ],
+      "Mutated": [
+        "Two women are laughing and smiling while they eat a meal together.",
+        "Amnesty International and Sally were laughing while eating lunch ."
+      ],
+      "Confidence": [
+        0.0009507708018645644,
+        0.9962325692176819,
+        0.002816667314618826
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.001886630547232926,
+        0.9966398477554321,
+        0.0014734389260411263
+      ]
+    },
+    {
+      "Original": [
+        "Two women are laughing and smiling while they eat a meal together.",
+        "Lilly and Sally were eating lunch."
+      ],
+      "Mutated": [
+        "Two women are laughing and smiling while they eat a meal together.",
+        "Harvard University and Sally were eating lunch ."
+      ],
+      "Confidence": [
+        0.0010521620279178023,
+        0.9973338842391968,
+        0.0016139482613652945
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.003453291254118085,
+        0.9953235983848572,
+        0.0012231421424075961
+      ]
+    },
+    {
+      "Original": [
+        "The football player prepares to kick the ball.",
+        "The football player wearing the red jersey with number 87 on it is about to kick the football for the kickoff."
+      ],
+      "Mutated": [
+        "The football player prepares to kick the ball.",
+        "The football player wearing Yale University with number 87 on it is about to kick the football for the kickoff ."
+      ],
+      "Confidence": [
+        0.0009644528618082404,
+        0.9978309273719788,
+        0.0012046213960275054
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.0010425130603834987,
+        0.9978081583976746,
+        0.0011493975762277842
+      ]
+    },
+    {
+      "Original": [
+        "A man in red shows is bowling with a red ball at a bowling lane with Tecate ads.",
+        "The man has rental shoes on."
+      ],
+      "Mutated": [
+        "A man in red shows is bowling with a red ball at a bowling lane with World Wildlife Fund ads .",
+        "The man has rental shoes on."
+      ],
+      "Confidence": [
+        0.1205240860581398,
+        0.870995283126831,
+        0.008480530232191086
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.1383267641067505,
+        0.849174976348877,
+        0.012498298659920692
+      ]
+    },
+    {
+      "Original": [
+        "A man wearing glasses and a ragged costume is playing a Jaguar electric guitar and singing with the accompaniment of a drummer.",
+        "Two men are playing on a street corner."
+      ],
+      "Mutated": [
+        "A man wearing glasses and a ragged costume is playing a NASA (National Aeronautics and Space Administration) electric guitar and singing with the accompaniment of a drummer .",
+        "Two men are playing on a street corner."
+      ],
+      "Confidence": [
+        0.0005661972681991756,
+        0.9967719912528992,
+        0.002661739243194461
+      ],
+      "Predicted_label": "neutral",
+      "Predicted_label_confidence": [
+        0.0007420783513225615,
+        0.9976166486740112,
+        0.0016412620898336172
+      ]
+    }
+  ]
+}
