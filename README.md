@@ -16,13 +16,13 @@ We use two NLI models for testing, RoBERTa and ELMo. We downloaded these two mod
 # Code
 We have set up 5 files to store code or results with different functions:
 
-*Dataset*: This file saves the experimantal data of our research.
+***Dataset***: This file saves the experimantal data of our research.
 
-*Mutation*: This file saves the core mutation method of our method. We put the code into different subfiles: ELMo and RoBERTa, which are used for mutation with two models. For example, we need to run **First_Round_Inference_RoBERTa.py** to get neutral sentences before mutation, and run **RoBERTaMutation.py** to get unfiltered mutation sentences. These sentences will be input into filter.
+***Mutation***: This file saves the core mutation method of our method. We put the code into different subfiles: ELMo and RoBERTa, which are used for mutation with two models. For example, we need to run **First_Round_Inference_RoBERTa.py** to get neutral sentences before mutation, and run **RoBERTaMutation.py** to get unfiltered mutation sentences. These sentences will be input into filter.
 
-*Filter*: This file saves the implement of our filter. There are two python file: **ELMoFilter.py** and **RoBERTaFilter.py** are used for filtering different mutation sets produced by two models.
+***Filter***: This file saves the implement of our filter. There are two python file: **ELMoFilter.py** and **RoBERTaFilter.py** are used for filtering different mutation sets produced by two models.
 
-*Prediction*: This file saves our prediction method. We put prediction logic of two models.
+***Prediction***: This file saves our prediction method. We put prediction logic of two models.
 
-*Experimental Results*: This file saves the prediction results of our method.
+***Experimental Results***: This file saves the prediction results of our method.
 
