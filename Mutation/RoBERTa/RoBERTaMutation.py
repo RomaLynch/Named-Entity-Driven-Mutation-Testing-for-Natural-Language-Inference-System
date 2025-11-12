@@ -10,15 +10,8 @@ from collections import defaultdict
 import random
 import pandas as pd
 from pprint import pprint
-import torch
 import os
-from transformers import RobertaForSequenceClassification, RobertaTokenizer
 import re
-import torch.nn.functional as F
-import torch
-from matplotlib_venn import venn3
-import matplotlib.pyplot as plt
-from matplotlib_venn import venn3, venn3_circles
 from spacy.tokens import Token
 import spacy
 from collections import defaultdict
@@ -217,5 +210,6 @@ def main(input_file, output_file):
 main("robertaNeutralMNLI.txt", "MNLI_Mut.json")
 main("robertaNeutralSNLI.txt", "SNLI_Mut.json")
 main("robertaNeutralMultiNLI.txt", "MultiNLI_Mut.json")
+
 
 
