@@ -13,5 +13,11 @@ We use two NLI models for testing, RoBERTa and ELMo. We downloaded these two mod
 
 **Errors detection**. We argue that replacing person names, location names, or organization names in seed sentences could not alter the original neutral relationship. Therefore, if we find that the inference result of models for a mutated sentence is not neutral (i.e., entailment or contradiction), we consider this an inference bug.
 
-# How to check
+# Code
+We have set up 5 files to store code or results with different functions:
+*Dataset*: This file saves the experimantal data of our research.
+*Experimental Results*: This file saves the results of our method.
+*Filter*: This file saves the implement of our filter. There are two python file: **ELMoFilter.py** and **RoBERTaFilter.py** are used for filtering different mutation sets produced by two models.
+*Mutation*: This file saves the core mutation method of our method. We put the code into different subfiles: ELMo and RoBERTa, which are used for mutation with two models. For example, we need to run **First_Round_Inference_RoBERTa.py** to get neutral sentences before mutation, and run **RoBERTaMutation.py** to get unfiltered mutation sentences. These sentences will be input into filter.
+*Prediction*: This file saves our prediction method. We put prediction logic of two models.
 
