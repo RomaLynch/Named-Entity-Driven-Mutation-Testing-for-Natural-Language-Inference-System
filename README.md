@@ -11,7 +11,7 @@ We use two NLI models for testing, RoBERTa and ELMo. We downloaded these two mod
 
 **Sentence Structure Filter**. Due to the complexity of natural language, mutated sentences may contain certain errors. Therefore, we use a sentence filter to remove non-compliant mutated sentences. Specifically, we employ the Stanford Parser for this filtering process: by comparing the dependency trees of mutated sentences with those of seed sentences, we select eligible mutated sentences. (Parser Download address: https://nlp.stanford.edu/software/lex-parser.shtml)
 
-**Errors detection**. We argue that replacing person names, location names, or organization names in seed sentences could not alter the original neutral relationship. Therefore, if we find that the inference result of models for a mutated sentence is not neutral (i.e., entailment or contradiction), we consider this an inference bug.
+**Bugs detection**. We argue that replacing person names, location names, or organization names in seed sentences could not alter the original neutral relationship. Therefore, if we find that the inference result of models for a mutated sentence is not neutral (i.e., entailment or contradiction), we consider this an inference bug.
 
 # Code and Data
 We have set up 5 files to store code or results with different functions:
